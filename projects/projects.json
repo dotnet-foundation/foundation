@@ -1,3 +1,6 @@
+{
+"name": ".NET Foundation Projects",
+"projects":
 [
 {"name":"asp.net-signalr.md",
 "contributor": "Microsoft"},
@@ -30,7 +33,7 @@
 {"name":"owin-authentication-middleware.md",
 "contributor": "Microsoft"},
 {"name":"salesforce-toolkits.md",
-"contributor": "SalesForce"},
+"contributor": "Force.com"},
 {"name":"system.drawing.md",
 "contributor": "Mono Project"},
 {"name":"umbraco.md",
@@ -41,4 +44,28 @@
 "contributor": "Xamarin"},
 {"name":"xamarin.mobile.md",
 "contributor": "Xamarin"}
-]
+],
+"contributors":
+[
+{"name": "Microsoft",
+ "logo": "http://mscorpnews.blob.core.windows.net/ncmedia/2014/10/MSFT_logo_rgb_C-Gray.png",
+ "web" : "http://www.microsoft.com"},
+ {"name": "Couchbase",
+ "logo": "http://www.couchbase.com/images/logo.svg",
+ "web" : "http://www.couchbase.com/"},
+{"name": "Xamarin",
+ "logo": "https://avatars0.githubusercontent.com/u/790012?v=2&s=200",
+ "web" : "https://xamarin.com/"},
+{"name": "Laurent Bugnion",
+ "logo": "http://www.galasoft.ch/layout/mvvm/MVVM_BlackText_190x147.png",
+ "web" : "http://www.mvvmlight.net/"},
+{"name": "Force.com",
+ "logo": "https://developer.salesforce.com/resource/images/salesforce-developer-network-logo_1.png",
+ "web" : "https://developer.salesforce.com/"},
+{"name": "Mono Project",
+ "logo": "https://avatars2.githubusercontent.com/u/53395?v=2&amp;s=200",
+ "web" : "http://www.mono-project.com/"},
+{"name": "Umbraco",
+ "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p160x160/971596_519168901464439_566592989_n.png?oh=ce61e5b4cbd60c0d99c4164cbb05a434&oe=54F091C9&__gda__=1424472439_c9f76213a915bc2af88246f464f29e8b",
+ "web" : "http://umbraco.com/"}
+]}
