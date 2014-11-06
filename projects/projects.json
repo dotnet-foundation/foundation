@@ -1,5 +1,5 @@
-{
-"name": ".NET Foundation Projects",
+{ 
+"name" : ".NET Foundation Projects",
 "projects":
 [
 {"name":"asp.net-signalr.md",
