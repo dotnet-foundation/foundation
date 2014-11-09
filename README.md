@@ -1,31 +1,57 @@
-# **Welcome to the .NET Foundation** #
+# Welcome to the .NET Foundation
 
-We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for.NET, Microsoft’s comprehensive development framework.
+We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for .NET, Microsoft’s comprehensive development framework.
 
-Please visit [www.dotnetfoundation.org](http://www.dotnetfoundation.org) for more information. 
+Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more information. 
 
-## .NET Foundation Projects ##
+## .NET Foundation Projects on GitHub
 
-Projects under the stewardship of the .NET Foundation currently include the .NET Compiler Platform ("Roslyn") as well as the ASP.NET family of projects, both of which were open sourced by Microsoft Open Technologies, Inc. (MS Open Tech). Xamarin has contributed several open source .NET projects, including the very popular Mailkit and Mimekit projects. 
+There are many projects under the stewardship of the .NET Foundation. The [full list of projects](http://dotnetfoundation.org/projects) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
-Projects on GitHub:
+**Couchbase**
 
-- [https://github.com/aspnet/KRuntime](https://github.com/aspnet/KRuntime) 
-- [https://github.com/SignalR/SignalR](https://github.com/SignalR/SignalR)
-- [https://github.com/couchbaselabs/couchbase-lite-net](https://github.com/couchbaselabs/couchbase-lite-net)
-- [https://github.com/jstedfast/MailKit](https://github.com/jstedfast/MailKit)
-- [https://github.com/jstedfast/MimeKit](https://github.com/jstedfast/MimeKit)
-- [https://github.com/officedev/open-xml-sdk](https://github.com/officedev/open-xml-sdk)
-- [https://github.com/umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS)
-- [https://github.com/Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
-- [https://github.com/developerforce/Force.com-Toolkit-for-NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
-- [https://github.com/mono/mono/tree/master/mcs/class/System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
-- [https://github.com/xamarin/Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth)
-- [https://github.com/xamarin/Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile)
+- [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
 
-See the complete list of [projects in the .NET Foundation](http://www.dotnetfoundation.org/projects) and learn how you can get involved. 
+**Force.com**
 
-## .NET Foundation Community Resources ##
+- [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
+
+**Jb Evain**
+
+- [Mono Cecil](https://github.com/jbevain/cecil)
+
+**Mono Project**
+
+- [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
+
+
+**Microsoft**
+
+- [.NET Core 5](http://github.com/dotnet/corefx)
+- [ASP.NET 5](https://github.com/aspnet/home) 
+- [ASP.NET SignalR](https://github.com/SignalR/SignalR)
+- [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
+- [Kudu](https://github.com/projectkudu/kudu)
+- [Open Office SDK](https://github.com/officedev/open-xml-sdk)
+
+**Thinktecture**
+
+- [Thinktecture.IdentityManager](https://github.com/thinktecture/Thinktecture.IdentityManager)
+- [Thinktecture.IdentityServer](https://github.com/thinktecture/Thinktecture.IdentityServer.v3)
+
+
+**Xamarin**
+
+- [MailKit](https://github.com/jstedfast/MailKit)
+- [MimeKit](https://github.com/jstedfast/MimeKit)
+- [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth)
+- [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile)
+
+**Umbraco**
+
+- [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
+
+## .NET Foundation Community Resources
 
 - [.NET Foundation Website](http://www.dotnetfoundation.org)
 - [.NET Foundation Forums](http://forums.dotnetfoundation.org/)
