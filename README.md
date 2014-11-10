@@ -20,11 +20,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Mono Cecil](https://github.com/jbevain/cecil)
 
-**Mono Project**
-
-- [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
-
-
 **Microsoft**
 
 - [.NET Core 5](http://github.com/dotnet/corefx)
@@ -34,11 +29,18 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Kudu](https://github.com/projectkudu/kudu)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
 
+**Mono Project**
+
+- [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
+
 **Thinktecture**
 
 - [Thinktecture.IdentityManager](https://github.com/thinktecture/Thinktecture.IdentityManager)
 - [Thinktecture.IdentityServer](https://github.com/thinktecture/Thinktecture.IdentityServer.v3)
 
+**Umbraco**
+
+- [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
 
 **Xamarin**
 
@@ -46,10 +48,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [MimeKit](https://github.com/jstedfast/MimeKit)
 - [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth)
 - [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile)
-
-**Umbraco**
-
-- [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
 
 ## .NET Foundation Community Resources
 
