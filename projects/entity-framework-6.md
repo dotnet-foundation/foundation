@@ -5,7 +5,7 @@
 ## Project Details
 * [Project Info Site](http://entityframework.codeplex.com/)
 * [Project Code Site](http://entityframework.codeplex.com/SourceControl/latest)
-* Project License Type: [Microsoft Public License (Ms-PL)](http://entityframework.codeplex.com/license)
+* Project License Type: [Apache License 2.0 (Apache)](http://entityframework.codeplex.com/license)
 * Project Main Contact: [Rowan Miller](http://www.codeplex.com/site/users/view/RoMiller) 
 
 ## Quicklinks
