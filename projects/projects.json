@@ -6,6 +6,8 @@
 "contributor": "Microsoft"},
 {"name":"aspnet-4.md",
 "contributor": "Microsoft"},
+{"name":"aspnet-vnext.md",
+"contributor": "Microsoft"},
 {"name":"azure-sdk.md",
 "contributor": "Microsoft"},
 {"name":"couchbase-lite-for-.net.md",
