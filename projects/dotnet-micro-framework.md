@@ -1,4 +1,4 @@
-# Microsoft .NET Micro Framework
+# .NET Micro Framework
 
 The [Microsoft® .NET Micro Framework](https://netmf.codeplex.com/) combines the reliability and efficiency of managed code with the premier development tools of Microsoft Visual Studio® to deliver exceptional productivity for developing embedded applications on small devices. 
 
