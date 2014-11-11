@@ -18,7 +18,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **Jb Evain**
 
-- [Mono Cecil](https://github.com/jbevain/cecil)
+- [Mono.Cecil](https://github.com/jbevain/cecil)
 
 **Microsoft**
 
