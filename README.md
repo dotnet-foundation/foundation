@@ -53,6 +53,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [.NET Foundation Website](http://www.dotnetfoundation.org)
 - [.NET Foundation Forums](http://forums.dotnetfoundation.org/)
-- .NET Foundation Blog (coming soon)
+- [.NET Foundation Blog](http://www.dotnetfoundation.org/blog)
 
 
