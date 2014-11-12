@@ -17,4 +17,4 @@
 * [Contribute](https://github.com/dotnet/corefx/blob/master/CONTRIBUTING.md)
 * [Discussions](https://github.com/microsoft/dotnet/issues)
 * [Blog](http://blogs.msdn.com/b/dotnet/)
-* [Samples](https://github.com/microsoft/dotnet-samples)
+* [Samples](https://github.com/Microsoft/dotnetsamples)
