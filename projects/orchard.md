@@ -23,6 +23,6 @@ presentation that you need for your content.
 
 * [Documentation](http://docs.orchardproject.net/)
 * [Discussions](http://orchardproject.net/discussions)
-* [Contribute:](http://www.orchardproject.net/contribution)
+* [Contribute](http://www.orchardproject.net/contribution)
 * [JabbR](https://jabbr.net/#/rooms/orchard)
 
