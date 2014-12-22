@@ -1,4 +1,4 @@
-# ASP.NET Ajax Control Toolkit.
+# ASP.NET Ajax Control Toolkit
 
 [ASP.NET Ajax Control Toolkit](https://ajaxcontroltoolkit.codeplex.com/) contains a rich set of controls that you can use to build highly responsive and interactive Ajax-enabled Web applications. The Ajax Control Toolkit contains more than 40 controls, including the AutoComplete, CollapsiblePanel, ColorPicker, MaskedEdit, Calendar, Accordion, HTML Editor Extender, and Watermark controls. Using the Ajax Control Toolkit, you can build Ajax-enabled ASP.NET Web Forms applications by dragging-and-dropping Toolkit controls from the Visual Studio Toolbox onto an ASP.NET Web Forms page.
 
