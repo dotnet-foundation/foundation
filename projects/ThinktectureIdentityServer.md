@@ -1,10 +1,10 @@
 # Thinktecture.IdentityServer
 
-[Thinktecture.IdentityServer](https://github.com/thinktecture/Thinktecture.IdentityServer.v3/wiki) is an extensible OpenID Connect and OAuth2 Security Token Service and Authorization Server.
+[Thinktecture.IdentityServer](https://thinktecture.github.io/Thinktecture.IdentityServer.v3.Documentation/) is an extensible OpenID Connect and OAuth2 Security Token Service and Authorization Server.
 
 ## Project Details
 
-* [Project Info Site](https://github.com/thinktecture/Thinktecture.IdentityServer.v3/wiki)
+* [Project Info Site](https://thinktecture.github.io/Thinktecture.IdentityServer.v3.Documentation/)
 * [Project Code Site](https://github.com/thinktecture/Thinktecture.IdentityServer.v3)
 * Project License Type: [Apache License 2.0 (Apache)](https://github.com/thinktecture/Thinktecture.IdentityServer.v3/blob/master/LICENSE)
 * Project Main Contact: [Dominick Baier](https://github.com/leastprivilege)
