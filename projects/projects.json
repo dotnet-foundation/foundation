@@ -48,6 +48,8 @@
 "contributor": "Microsoft"},
 {"name":"orchard.md",
 "contributor": "Microsoft"},
+{"name":"orleans.md",
+"contributor": "Microsoft"},
 {"name":"owin-authentication-middleware.md",
 "contributor": "Microsoft"},
 {"name":"salesforce-toolkits.md",
