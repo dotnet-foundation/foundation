@@ -22,12 +22,15 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **Microsoft**
 
-- [.NET Core 5](http://github.com/dotnet/corefx)
+- [.NET Core CLR](https://github.com/dotnet/coreclr)
+- [.NET Core Framework](https://github.com/dotnet/corefx)
+- [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn)
 - [ASP.NET 5](https://github.com/aspnet/home) 
 - [ASP.NET SignalR](https://github.com/SignalR/SignalR)
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
 - [Kudu](https://github.com/projectkudu/kudu)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
+
 
 **Mono Project**
 
