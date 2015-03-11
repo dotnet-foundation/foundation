@@ -1,6 +1,6 @@
 # IdentityServer
 
-[IdentityServer](https://identityserver.github.io/Documentation/) is an extensible OpenID Connect and OAuth2 Security Token Service and Authorization Server framework.
+[IdentityServer](https://identityserver.github.io/Documentation/) is an extensible OpenID Connect and OAuth2 Security token Service and authorization server framework.
 
 ## Project Details
 
@@ -13,9 +13,9 @@
 
 * [Documentation](https://identityserver.github.io/Documentation/)
 * [Discussions](https://github.com/identityserver/IdentityServer3/issues)
-* [Blog 1](http://leastprivilege.com/) [Blog 2](http://brockallen.com/)
+* [Dominick's blog](http://leastprivilege.com/) [Brock's blog](http://brockallen.com/)
 * [Chat](https://gitter.im/IdentityServer/IdentityServer3)
 * Twitter: [@leastprivilege](https://twitter.com/leastprivilege) & 
-[@brocklallen](https://twitter.com/brocklallen)\
+[@brocklallen](https://twitter.com/brocklallen)
 * [Contribute](https://github.com/identityserver/IdentityServer3/blob/master/CONTRIBUTING.md)
 
