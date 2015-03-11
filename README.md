@@ -38,10 +38,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
 
-**Thinktecture**
+**Dominick Baier & Brock Allen**
 
-- [Thinktecture.IdentityManager](https://github.com/thinktecture/Thinktecture.IdentityManager)
-- [Thinktecture.IdentityServer](https://github.com/thinktecture/Thinktecture.IdentityServer.v3)
+- [IdentityManager](https://github.com/identitymanager)
+- [IdentityServer](https://github.com/identityserver)
 
 **Umbraco**
 
