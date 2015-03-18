@@ -40,6 +40,8 @@
 "contributor": "Microsoft"},
 {"name":"mimekit.md",
 "contributor": "Xamarin"},
+{"name":"msbuild.md",
+"contributor": "Microsoft"},
 {"name":"mvvm-light-toolkit.md",
 "contributor": "Laurent Bugnion"},
 {"name":"nuget.md",

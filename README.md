@@ -14,6 +14,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
 
+**Dominick Baier & Brock Allen**
+
+- [IdentityManager](https://github.com/identitymanager)
+- [IdentityServer](https://github.com/identityserver)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
@@ -31,17 +36,13 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [ASP.NET SignalR](https://github.com/SignalR/SignalR)
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
 - [Kudu](https://github.com/projectkudu/kudu)
+- [MS Build](https://github.com/microsoft/msbuild)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
 
 
 **Mono Project**
 
 - [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
-
-**Dominick Baier & Brock Allen**
-
-- [IdentityManager](https://github.com/identitymanager)
-- [IdentityServer](https://github.com/identityserver)
 
 **Umbraco**
 
