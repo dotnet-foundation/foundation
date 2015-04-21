@@ -13,11 +13,10 @@ presentation that you need for your content.
 
 # Project Details
 
-
 * [Project Info Site](http://www.orchardproject.net/)
-* [Project Code Site](https://orchard.codeplex.com/)
-* Project License Type: [New BSD License(BSD)](https://orchard.codeplex.com/license)
-* Project Main Contact:  [Steering Committee](http://orchardproject.net/about)
+* [Project Code Site](https://github.com/OrchardCMS/Orchard)
+* Project License Type: [New BSD License(BSD)](https://raw.githubusercontent.com/OrchardCMS/Orchard/master/LICENSE.txt)
+* Project Main Contact: [Steering Committee](http://orchardproject.net/about)
 
 ### Quicklinks
 
