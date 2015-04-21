@@ -1,6 +1,6 @@
 # LLILC
 
-LLILC (pronounced 'lilac') is an **LL**VM based MS**IL C**ompiler with a goal of producing a set of cross-platform .NET code generation tools. Today LLILC is being developed against [dotnet/CoreCLR](https://github.com/dotnet/coreclr) for use as a JIT, but an ahead of time (AOT) compiler is planned for the future. 
+LLILC (pronounced 'lilac') is an **LL**VM based MS**IL C**ompiler. The goal of the project is to produce a set of .NET tools that utilize LLVM to reach a broad set of platforms and chip architectures. Today LLILC is being developed against [dotnet/CoreCLR](https://github.com/dotnet/coreclr) for use as a JIT, but an ahead of time (AOT) compiler is planned for the future. 
 
 ## Project Details
 
