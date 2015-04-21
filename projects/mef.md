@@ -6,7 +6,7 @@ The [Managed Extensibility Framework (MEF)](http://mef.codeplex.com/) is a compo
 * [Project Info Site](http://mef.codeplex.com/) 
 * [Project Code Site](http://mef.codeplex.com/SourceControl/latest) 
 * Project License Type: [Microsoft Public License (Ms-PL)](http://mef.codeplex.com/license)
-* Project Main Contact: [Alok Shriram](http://www.codeplex.com/site/users/view/alokshriram) 
+* Project Main Contact: [Richard Lander](https://github.com/richlander) 
 
 ## Quicklinks
 

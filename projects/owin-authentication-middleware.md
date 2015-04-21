@@ -1,6 +1,6 @@
 # OWIN Authentication Middleware (Katana Project)
 
-[Katana](http://katanaproject.codeplex.com/) is a flexible set of components for building and hosting OWIN-based web applications. These products are actively developed by the Katana team assigned to the Microsoft Open Tech Hub and in collaboration with a community of open source developers. Together we are dedicated to creating the best possible platform for Web application hosting and development.
+[Katana](http://katanaproject.codeplex.com/) is a flexible set of components for building and hosting OWIN-based web applications. The next major version of Katana is part of the ASP.NET vNext project on GitHub, including support for ASP.NET MVC, Web API, and SignalR. See [https://github.com/aspnet/home](https://github.com/aspnet/home) for details.
 
 ## Project Details
 * [Project Info Site](http://katanaproject.codeplex.com/) 
