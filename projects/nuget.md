@@ -10,8 +10,7 @@ package repository used by all package authors and consumers.
 * [Project Info Site](http://www.nuget.org)
 * [Project Code Site](https://github.com/nuget/home)
 * Project License Type: [Apache License 2.0 (Apache)](https://github.com/nuget/home/blob/master/LICENSE.txt)
-* Project Main Contact(s): [Yishai Galatzer](http://www.codeplex.com/site/users/view/yishaigalatzer) 
- [Jeff Fritz](http://www.codeplex.com/site/users/view/jfritz)
+* Project Main Contact(s): [Yishai Galatzer](https://twitter.com/yigalatz), [Jeff Fritz](https://twitter.com/csharpfritz)
 
 ### Quicklinks
 
