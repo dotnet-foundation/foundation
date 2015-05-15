@@ -8,17 +8,16 @@ package repository used by all package authors and consumers.
 ## Project Details
 
 * [Project Info Site](http://www.nuget.org)
-* [Project Code Site](https://nuget.codeplex.com/)
-* Project License Type: [Apache License 2.0 (Apache)](http://nuget.codeplex.com/license)
-* Project Main Contact(s): [Jeff Handley](https://www.codeplex.com/site/users/view/JeffHandley) 
- [Howard Dierking](https://www.codeplex.com/site/users/view/howarddierking)
+* [Project Code Site](https://github.com/nuget/home)
+* Project License Type: [Apache License 2.0 (Apache)](https://github.com/nuget/home/blob/master/LICENSE.txt)
+* Project Main Contact(s): [Yishai Galatzer](http://www.codeplex.com/site/users/view/yishaigalatzer) 
+ [Jeff Fritz](http://www.codeplex.com/site/users/view/jfritz)
 
 ### Quicklinks
 
 * [Documentation](http://docs.nuget.org)
-* [Discussions](http://nuget.codeplex.com/discussions)
+* [Discussions](https://github.com/nuget/home/issues)
 * [Blog](http://blog.nuget.org)
 * Twitter: [@nuget](https://twitter.com/nuget)
 * [JabbR](https://jabbr.net/#rooms/nuget)
-* [Contribute](http://docs.nuget.org/docs/contribute/contributing-to-nuget)
-
+* [Contribute](http://docs.nuget.org/contribute/contributing-to-NuGet)
