@@ -62,6 +62,8 @@
 "contributor": "Mono Project"},
 {"name":"umbraco.md",
 "contributor": "Umbraco"},
+{"name":"wcf.md",
+"contributor": "Microsoft"},
 {"name":"windows-phone-toolkit.md",
 "contributor": "Microsoft"},
 {"name":"xamarin.auth.md",
