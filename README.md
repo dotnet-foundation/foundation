@@ -39,6 +39,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Kudu](https://github.com/projectkudu/kudu)
 - [MS Build](https://github.com/microsoft/msbuild)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
+- [WCF](https://github.com/dotnet/wcf)
 
 **Mono Project**
 
