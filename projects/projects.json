@@ -12,6 +12,8 @@
 "contributor": "Microsoft"},
 {"name":"azure-sdk.md",
 "contributor": "Microsoft"},
+{"name":"azure-webjobs-sdk.md",
+"contributor": "Microsoft"},
 {"name":"mono.cecil.md",
 "contributor": "Jb Evain"},
 {"name":"couchbase-lite-for-.net.md",
