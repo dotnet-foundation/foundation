@@ -4,7 +4,7 @@ The [Azure WebJobs SDK](https://github.com/Azure/azure-webjobs-sdk) is a framewo
 
 ## Project Details
 * [Project Code Site](https://github.com/Azure/azure-webjobs-sdk)
-* Project License Type: [Apache 2.0](https://github.com/Azure/azure-webjobs-sdk/blob/master/LICENSE.txt)
+* Project License Type: [MIT](https://github.com/Azure/azure-webjobs-sdk/blob/master/LICENSE.txt)
 * Project Main Contact: [David Ebbo](https://github.com/davidebbo)
 
 ## Quicklinks
