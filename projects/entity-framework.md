@@ -1,6 +1,6 @@
 # Entity Framework
 
-[Entity Framework (EF)](http://entityframework.codeplex.com/) is the recommend data access technology for new applications in .NET. It is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write.
+[Entity Framework (EF)](https://github.com/aspnet/EntityFramework) is the recommend data access technology for new applications in .NET. It is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write.
 
 Entity Framework 7 (EF7) provides a familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support. EF7 also enables access to data across relational and non-relational stores. EF7 is much more lightweight than previous versions and is built from the ground up to work great against [.NET Core](https://github.com/dotnet/core), in the cloud (using ASP.NET 5), on devices (i.e. in universal Windows apps) as well as in traditional .NET Framework scenarios.
 
