@@ -1,4 +1,4 @@
-{ 
+{
 "name" : ".NET Foundation Projects",
 "projects":
 [
@@ -18,7 +18,7 @@
 "contributor": "Jb Evain"},
 {"name":"couchbase-lite-for-.net.md",
 "contributor": "Couchbase"},
-{"name":"NETCore5.md",
+{"name":"NETCore.md",
 "contributor": "Microsoft"},
 {"name":"dotnet-compiler-platform.md",
 "contributor": "Microsoft"},
