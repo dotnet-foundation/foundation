@@ -71,7 +71,9 @@
 {"name":"xamarin.auth.md",
 "contributor": "Xamarin"},
 {"name":"xamarin.mobile.md",
-"contributor": "Xamarin"}
+"contributor": "Xamarin"},
+{"name":"WorldWideTelescope.md",
+"contributor": "Microsoft"}
 ],
 "contributors":
 [
