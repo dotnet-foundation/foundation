@@ -10,6 +10,10 @@ Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more inform
 
 There are many projects under the stewardship of the .NET Foundation. The [full list of projects](http://www.dotnetfoundation.org/projects) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
+**Brian Lagunas & Brian Noyes**
+
+- [Prism](https://github.com/PrismLibrary)
+
 **Couchbase**
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
