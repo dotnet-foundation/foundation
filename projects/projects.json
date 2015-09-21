@@ -58,6 +58,8 @@
 "contributor": "Microsoft"},
 {"name":"owin-authentication-middleware.md",
 "contributor": "Microsoft"},
+{"name":"prism.md", 
+"contributor": "Brian Lagunas"},
 {"name":"salesforce-toolkits.md",
 "contributor": "Force.com"},
 {"name":"system.drawing.md",
@@ -97,5 +99,8 @@
  "web" : "http://www.mono-project.com/"},
 {"name": "Umbraco",
  "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p160x160/971596_519168901464439_566592989_n.png?oh=ce61e5b4cbd60c0d99c4164cbb05a434&oe=54F091C9&__gda__=1424472439_c9f76213a915bc2af88246f464f29e8b",
- "web" : "http://umbraco.com/"}
+ "web" : "http://umbraco.com/"},
+ {"name": "Brian Lagunas",
+ "logo": "",
+ "web" : "http://www.prismlibrary.com/"}
 ]}
