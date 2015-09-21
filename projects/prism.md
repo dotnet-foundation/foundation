@@ -14,3 +14,5 @@ Prism is a framework for implementing maintainable, extensible, and testable XAM
 * [Documentation](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 * [Discussions](https://github.com/PrismLibrary/Prism/issues)
 * [Contribute](https://github.com/PrismLibrary/Prism#contributing)
+* [Brian Lagunas Twitter](https://twitter.com/brianlagunas)
+* [Brian Noyes Twitter](https://twitter.com/briannoyes)
