@@ -33,7 +33,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **Microsoft**
 
-- [.NET Core](https://dotnet.github.io/core)
+- [.NET Core](https://dotnet.github.io/)
   - [.NET Core CLR](https://github.com/dotnet/coreclr)
   - [.NET Core Framework](https://github.com/dotnet/corefx)
 - [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn)
