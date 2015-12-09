@@ -43,6 +43,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
 - [Kudu](https://github.com/projectkudu/kudu)
 - [MS Build](https://github.com/microsoft/msbuild)
+- [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
 - [WCF](https://github.com/dotnet/wcf)
 - [WorldWideTelescope](http://github.com/WorldWideTelescope)
