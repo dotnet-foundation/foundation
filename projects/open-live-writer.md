@@ -9,6 +9,7 @@ For more information see http://www.OpenLiveWriter.org/
 * Project Code Repos:  [.NET Core Framework](https://github.com/openlivewriter)
 * Project License Type: [MIT](https://github.com/OpenLiveWriter/OpenLiveWriter/blob/master/license.txt)
 * Project Main Contact: [Rob Dolin](https://github.com/RobDolin)
+* Project Secondary Contact: [Will Duff](https://github.com/WillDuff)
 
 ## Quicklinks
 * [Download](http://openlivewriter.org)
