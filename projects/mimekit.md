@@ -1,6 +1,6 @@
-# Mimekit
+# MimeKit
 
-[Mimekit](https://github.com/jstedfast/MimeKit) is a C# MIME creation and parser library with support for S/MIME, PGP, TNEF, and Unix mbox spools.
+[MimeKit](https://github.com/jstedfast/MimeKit) is a C# MIME creation and parser library with support for S/MIME, PGP, DKIM, TNEF, and Unix mbox spools.
 
 ## Project Details
 * [Project Info Site](https://github.com/jstedfast/MimeKit) 
@@ -11,5 +11,6 @@
 ## Quicklinks
 
 * [Contribute](https://github.com/jstedfast/MimeKit#contributing) 
-* [Discussions](https://github.com/xamarin/Xamarin.Auth/issues)
+* [Documentation](http://www.mimekit.net/docs)
+* [Discussions](https://github.com/jstedfast/MimeKit/issues)
 * [Blog](http://jeffreystedfast.blogspot.com/search/label/mimekit)
