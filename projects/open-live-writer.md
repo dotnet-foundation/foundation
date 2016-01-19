@@ -6,7 +6,7 @@ For more information see http://www.OpenLiveWriter.org/
 ## Project Details
 
 * [Project Info Site](http://openlivewriter.org)
-* Project Code Repos:  [Open Live Writerk](https://github.com/openlivewriter)
+* Project Code Repos:  [Open Live Writer](https://github.com/openlivewriter)
 * Project License Type: [MIT](https://github.com/OpenLiveWriter/OpenLiveWriter/blob/master/license.txt)
 * Project Main Contact: [Rob Dolin](https://github.com/RobDolin)
 * Project Secondary Contact: [Will Duff](https://github.com/WillDuff)
