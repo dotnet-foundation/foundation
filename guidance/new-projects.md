@@ -55,16 +55,20 @@ do we need to do the following:
  - [ ] Tell the world we have joined!
  - [ ] Get CLA Automation enabled to ensure contributors can easily sign the 
        [Contribution License Agreement](https://cla2.dotnetfoundation.org/cladoc/net-foundation-contribution-license-agreement.pdf)
- - [ ] Send a PR to [add the Project into the .NET Foundation list](https://github.com/dotnet/home/tree/master/projects)
+ - [ ] Send a PR to add the Project into the .NET Foundation 
+       [list](https://github.com/dotnet/home/tree/master/projects)
  - [ ] Ensure the repo contents are up to date with [.NET Foundation guidance](repo-guide.md)
  - [ ] Review the [README guidance](readme-guide.md) and update if necessary
  - [ ] If applicable [update the LICENSE file](copyright.md) to show Copyright has been assigned to the .NET Foundation
        and look to update any file headers.
- - [ ] If applicable, update any copyright statements in websites owned by the project to refelct assignment to the .NET Foundation
- - [ ] If applicable, update any websites associated with the project to include "Supported by the <a href="http://dotnetfoundation.org">.NET Foundation</a>" or
+ - [ ] If applicable, update any copyright statements in websites owned by the project to refelct 
+       assignment to the .NET Foundation
+ - [ ] If applicable, update any websites associated with the project to include
+       "Supported by the <a href="http://dotnetfoundation.org">.NET Foundation</a>" or
        similar link back to the .NET Foundation in the footer.
  - [ ] [Sign up for Project Leader news](http://eepurl.com/bOCfJP)
- - [ ] Configure any resources requested from the .NET Foundation (SSL Certs, Code Signing, Secret Management, Build Servers etc)
+ - [ ] Configure any resources requested from the .NET Foundation (SSL Certs, Code Signing,
+       Secret Management, Build Servers etc)
  ```
 
 
