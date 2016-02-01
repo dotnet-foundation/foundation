@@ -5,7 +5,7 @@
 Generally the copyright notice for a project in the .NET Foundation is given as
 "Copyright (c) .NET Foundation and Contributors. All Rights Reserved".
 The copyright notice should be placed in the LICENSE for the project so
-the begginning of the LICENSE for an MIT Licensed project would be:
+the beginning of the LICENSE for an MIT Licensed project would be:
 
  ```
 The MIT License (MIT)
@@ -31,7 +31,9 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
  ```
 
 When including third party open source code in a project, any third party
-copyright notices should be preserved with the code.
+copyright notices should be preserved with the code.  It is good practise
+to also surface any third party notices required in your project
+into a file called NOTICE.md (or ThirdPartyNotices.txt) in the project root.
 
 ## File Headers
 
@@ -47,7 +49,7 @@ preserved.
 // See the LICENSE file in the project root for more information.
  ```
 
-Therfore the file header for an MIT licensed project would be:
+Therefore the file header for an MIT licensed project would be:
 
  ```
 // Licensed to the .NET Foundation under one or more agreements.

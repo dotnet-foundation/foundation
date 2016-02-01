@@ -3,19 +3,22 @@
 
 When projects join the foundation, there are two ways that they can come in.
 
- - One is by the owners of the project signing a contribution agreement licensing
+ - **License** - The first is for the maintainers of the project to sign a
+   contribution agreement licensing
    the code to the .NET Foundation under the terms of the open source license and
    confirming that they have the rights to do that. This type of agreement is most
-   common when projects have had a long history of being open source but wish to
+   common when projects have had a long history of being open source, with lots of
+   contribution from many different individuals and the project community now wish to
    now be supported by the .NET Foundation.
    
- - The other is to assign the copyright of the project to the .NET Foundation and
+ - **Assignment** - The other is to assign the copyright of the project to the .NET Foundation and
    confirm that they have the rights to do this. This type of agreement is usually
    used when releasing something as open source for the first time or by a project
-   that has had a high degree of control over contributions in the past.  
+   that has had a high degree of control over contributions to the existing project 
+   in the past.  
 
 When you contact the .NET Foundation, they will help you decide which type of
-agreement is most likely to suit you.
+agreement is most likely to suit you based on your needs.
 
 When on-boarding a project into the .NET Foundation, we typically go through
 the following steps to make sure everything is set up properly.  Feel free
