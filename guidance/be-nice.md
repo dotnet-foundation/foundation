@@ -55,11 +55,12 @@ confidentiality of the person reporting.
 This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/)
 including Mono, Rails, AngularJS, Eclipse, Swift and other projects in the .NET Foundation
 
-### What should I do when a thread goes toxic
+#### What should I do when a thread goes toxic
 There are rare instances when a particular issue or thread in a forum will decend into a set of unhelpful comments,
 occasionally drawing in a large number of unhelpful comments from outside of your regular community.
 Rather than one individual being particularly problematic or harrasing another, a crowd might start to 
 turn on an individual or group. If any project maintainer wants advice on how to deal with a particular issue
-including when to lock an issue then please drop us a line on the conduct@dotnetfoundation.org address.
+including when to lock an issue, ban a user or remove abusive messages in a conversation then 
+please drop us a line on the conduct@dotnetfoundation.org address.
 
  
