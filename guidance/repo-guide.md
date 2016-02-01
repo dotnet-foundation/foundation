@@ -9,10 +9,10 @@ Your repository should contain the following files in the root folder
  - LICENSE (or LICENSE.txt / LICENSE.md) - Always provide a full copy of the open source
    license associated with the project. At the top of the license file you should have
    the project copyright statement, i.e.
-   ```
+```
            Copyright (c) .NET Foundation and Contributors
            All Rights Reserved
-   ```
+```
  - [*README.md*](readme-guide.md)
  
  - *.gitignore* - To configure which files should not be checked in to version
