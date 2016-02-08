@@ -2,7 +2,7 @@
 README files are very important in welcoming people to your open source
 project for the first time. When someone discovers your code, the README.md
 file in the root of the repository is the first thing that they will see
-there it is worth spending some time on it to make sure it has relevant
+there. It is worth spending some time on it to make sure it has relevant
 information to your audience and is kept up to date.
 
 Remember that often your project is targeted at fellow developers and
@@ -30,7 +30,7 @@ But you should make sure you have the following areas referenced in your README.
  - How to contribute to the project or a link to the CONTRIBUTE.md
  - Information on how to get started as a developer, information on Gitter, IRC, mailing list etc
  - How to provide feedbad (Issues, User Voice, Forums etc)
- - License type and link to the project LICENCE
+ - License type and link to the project LICENSE
  - High level road map or link to roadmap documentation / open issues
 
 ### Code of Conduct
@@ -46,7 +46,7 @@ For more information see the [.NET Foundation Code of Conduct](http://www.dotnet
 
 ### .NET Foundation Pointer
 As .NET Foundation projects can be located across a number of different locations
-and organization on GitHub, if possible can your project also include a link back
+and organization on GitHub, if possible your project can also include a link back
 to the .NET Foundation website to help people discover other projects in the foundation
 as well as learn more about our joint goals.  The following simple MarkDown at the 
 end of your README is more than enough.

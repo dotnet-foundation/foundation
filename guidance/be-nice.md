@@ -56,7 +56,7 @@ This code of conduct has been adopted by [many other open source communities](ht
 including Mono, Rails, AngularJS, Eclipse, Swift and other projects in the .NET Foundation
 
 #### What should I do when a thread goes toxic
-There are rare instances when a particular issue or thread in a forum will decend into a set of unhelpful comments,
+There are rare instances when a particular issue or thread in a forum will descend into a set of unhelpful comments,
 occasionally drawing in a large number of unhelpful comments from outside of your regular community.
 Rather than one individual being particularly problematic or harrasing another, a crowd might start to 
 turn on an individual or group. If any project maintainer wants advice on how to deal with a particular issue
