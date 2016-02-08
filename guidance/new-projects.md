@@ -40,8 +40,8 @@ do we need to do the following:
       it follows when selecting new committers to the project.
 - [ ] [Register an interest](http://www.dotnetfoundation.org/get-involved) in joining the .NET Foundation
 - [ ] Work with the .NET Foundation to fill out an On-Boarding Questionaire
-- [ ] .NET Foundation send out completed questionaire to .NET Foundation Advisory Council for comments
-- [ ] .NET Foundation Executive Director submit new project proposal to the .NET Foundation Board
+- [ ] .NET Foundation sends out completed questionaire to .NET Foundation Advisory Council for comments
+- [ ] .NET Foundation Executive Director submits new project proposal to the .NET Foundation Board
 - [ ] Configure a CI build for the project and ensure build status badges are available from the README
 
 ## Once accepted into the .NET Foundation
@@ -61,7 +61,7 @@ do we need to do the following:
  - [ ] Review the [README guidance](readme-guide.md) and update if necessary
  - [ ] If applicable [update the LICENSE file](copyright.md) to show Copyright has been assigned to the .NET Foundation
        and look to update any file headers.
- - [ ] If applicable, update any copyright statements in websites owned by the project to refelct 
+ - [ ] If applicable, update any copyright statements in websites owned by the project to reflect 
        assignment to the .NET Foundation
  - [ ] If applicable, update any websites associated with the project to include
        "Supported by the <a href="http://dotnetfoundation.org">.NET Foundation</a>" or

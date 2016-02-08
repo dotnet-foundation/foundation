@@ -28,7 +28,7 @@ Your repository should contain the following files in the root folder
    CONTRIBUTING.md then a link will be displayed when someone
    created a new issue or PR against your project.
    
- - *NOTICE.md* - _optional_ If the project contains and third party open source code
+ - *NOTICE.md* - _optional_ If the project contains any third party open source code
    then full details of that along with a full copy of the associated
    open source license should be provided.
    
