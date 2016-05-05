@@ -12,5 +12,5 @@
 ### Quicklinks
 
 * [Documentation](https://github.com/DevExpress/AjaxControlToolkit/wiki)
-* [Contribute](https://github.com/DevExpress/AjaxControlToolkit/)
+* [Contribute](https://github.com/DevExpress/AjaxControlToolkit/blob/master/CONTRIBUTING.MD)
 * [Report an issue](https://github.com/DevExpress/AjaxControlToolkit/issues)
