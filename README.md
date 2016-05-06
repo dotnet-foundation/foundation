@@ -4,7 +4,7 @@
 
 We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for .NET, Microsoft’s comprehensive development framework.
 
-Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more information. 
+Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more information.
 
 ## .NET Foundation Projects on GitHub
 
@@ -38,7 +38,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
   - [.NET Core Framework](https://github.com/dotnet/corefx)
 - [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn)
 - [.NET Micro Framework](https://github.com/NETMF/netmf-interpreter)
-- [ASP.NET 5](https://github.com/aspnet/home) 
+- [ASP.NET 5](https://github.com/aspnet/home)
 - [ASP.NET SignalR](https://github.com/SignalR/SignalR)
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
 - [Kudu](https://github.com/projectkudu/kudu)
@@ -59,6 +59,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Umbraco**
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
+
+**WiX Toolset**
+
+- [WiX Toolset](https://github.com/wixtoolset)
 
 **Xamarin**
 
