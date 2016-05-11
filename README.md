@@ -56,6 +56,12 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
 
+**Protobuild**
+
+- [Protobuild](https://github.com/Protobuild/Protobuild)
+- [Protobuild Manager](https://github.com/Protobuild/Protobuild.Manager)
+- [(and more)](https://github.com/Protobuild/)
+
 **Umbraco**
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
