@@ -81,7 +81,9 @@
 {"name":"WorldWideTelescope.md",
 "contributor": "Microsoft"},
 {"name":"open-live-writer.md",
-"contributor": "Microsoft"}
+"contributor": "Microsoft"},
+{"name":"cake.md",
+"contributor": "Cake"}
 ],
 "contributors":
 [
@@ -114,5 +116,8 @@
  "web" : "http://wixtoolset.org/"},
 {"name": "Brian Lagunas",
  "logo": "",
- "web" : "http://www.prismlibrary.com/"}
+ "web" : "http://www.prismlibrary.com/"},
+{"name": "Cake",
+ "logo": "https://raw.githubusercontent.com/cake-build/graphics/master/png/cake-large.png",
+ "web" : "http://cakebuild.net/"}
 ]}
