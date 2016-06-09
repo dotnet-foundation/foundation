@@ -14,6 +14,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Prism](https://github.com/PrismLibrary)
 
+**Cake**
+
+- [Cake](https://github.com/cake-build/cake)
+- [(and more)](https://github.com/cake-build)
+
 **Couchbase**
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
