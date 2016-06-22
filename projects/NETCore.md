@@ -1,6 +1,6 @@
 # .NET Core
 
-.NET Core is the small optimized runtime that is the basis of [ASP.NET Core 5](http://www.dotnetfoundation.org/aspnet-5). It currently runs on Windows, and will be extended to support Linux and Mac. It is a high-performance and modular design, and supports full side by side to make it easy to adopt new .NET Core versions without affecting other apps. These products are actively developed by the .NET team and in collaboration with a community of open source developers. Together we are dedicated to improving and extending the .NET platform with new features and for new scenarios.
+.NET Core is the small optimized runtime that is the basis of [ASP.NET Core](http://www.dotnetfoundation.org/aspnet-core). It currently runs on Linux, Mac, and Windows. It is a high-performance and modular design, and supports full side by side to make it easy to adopt new .NET Core versions without affecting other apps. These products are actively developed by the .NET team and in collaboration with a community of open source developers. Together we are dedicated to improving and extending the .NET platform with new features and for new scenarios.
 
 .NET Core has two major components. It includes a small runtime that is built from the same codebase as the .NET Framework CLR. The .NET Core runtime includes the same GC and JIT (RyuJIT), but doesn’t include features like Application Domains or Code Access Security. The runtime is delivered on NuGet, via the Microsoft.CoreCLR package.
 
@@ -8,7 +8,7 @@
 
 ## Project Details
 
-* [Project Info Site](https://dotnet.github.io/core)
+* [Project Info Site](https://dotnet.github.io)
 * Project Code Repos:  [.NET Core Framework](https://github.com/dotnet/corefx), [.NET Core Common Language Runtime]( https://github.com/dotnet/coreCLR)
 * Project License Type: [MIT](https://github.com/dotnet/corefx/blob/master/LICENSE)
 * Project Main Contact: [Immo Landwerth](https://github.com/terrajobst)
@@ -17,6 +17,6 @@
 * [Contribute](https://github.com/dotnet/corefx/blob/master/CONTRIBUTING.md)
 * [Discussions](http://forums.dotnetfoundation.org/)
 * [Samples](https://github.com/Microsoft/dotnetsamples)
-* [Blog](http://blogs.msdn.com/b/dotnet/)
+* [Blog](http://blogs.msdn.microsoft.com/dotnet/)
 * Twitter: [@DotNet](https://twitter.com/dotnet)
-* [[WIP] Documentation](http://dotnet.readthedocs.org/)
+* [Documentation](http://docs.microsoft.com/dotnet/core/index)
