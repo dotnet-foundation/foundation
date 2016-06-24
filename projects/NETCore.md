@@ -9,7 +9,7 @@
 ## Project Details
 
 * [Project Info Site](https://dotnet.github.io)
-* Project Code Repos:  [.NET Core Framework](https://github.com/dotnet/corefx), [.NET Core Common Language Runtime]( https://github.com/dotnet/coreCLR)
+* Project Code Repos:  [.NET Core Framework](https://github.com/dotnet/corefx), [.NET Core Common Language Runtime]( https://github.com/dotnet/coreCLR), [.NET Core Tools](https://github.com/dotnet/cli)
 * Project License Type: [MIT](https://github.com/dotnet/corefx/blob/master/LICENSE)
 * Project Main Contact: [Immo Landwerth](https://github.com/terrajobst)
 
