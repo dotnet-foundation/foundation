@@ -83,7 +83,9 @@
 {"name":"open-live-writer.md",
 "contributor": "Microsoft"},
 {"name":"cake.md",
-"contributor": "Cake"}
+"contributor": "Cake"},
+{"name":"reactive-extensions.md",
+"contributor": "Microsoft"}
 ],
 "contributors":
 [
@@ -119,5 +121,8 @@
  "web" : "http://www.prismlibrary.com/"},
 {"name": "Cake",
  "logo": "https://raw.githubusercontent.com/cake-build/graphics/master/png/cake-large.png",
- "web" : "http://cakebuild.net/"}
+ "web" : "http://cakebuild.net/"},
+ {"name": "Reactive Extensions",
+  "logo": "https://raw.githubusercontent.com/Reactive-Extensions/Rx.NET/master/Rx.NET/Resources/Artwork/Logo_Color_300x300.png",
+  "web" : "http://reactivex.io/"}
 ]}

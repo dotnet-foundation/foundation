@@ -50,6 +50,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [MS Build](https://github.com/microsoft/msbuild)
 - [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
+- [Reactive Extensions for .NET](https://github.com/reactive-extensions/rx.net)
 - [WCF](https://github.com/dotnet/wcf)
 - [WorldWideTelescope](http://github.com/WorldWideTelescope)
 
@@ -87,5 +88,3 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [.NET Foundation Website](http://www.dotnetfoundation.org)
 - [.NET Foundation Forums](http://forums.dotnetfoundation.org/)
 - [.NET Foundation Blog](http://www.dotnetfoundation.org/blog)
-
-
