@@ -10,9 +10,9 @@ process.
  - [By-laws](http://www.dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
  - [.NET Foundation Structure](foundation-structure.md)
  - [Project Governance Models](project-governance.md)
-   - Releasable vs non-releaseable materials
-   - Project Roles
-   - Decision Making 
+   - [Releasable vs non-releaseable materials](project-governance.md#releasable-and-non-releasable-materials)
+   - [Project Roles](project-governance.md#roles)
+   - [Decision Making](project-governance.md#decision-making) 
  - [Contribution License Agreement](https://cla2.dotnetfoundation.org/)
  - [Code of Conduct](https://github.com/dotnet/home/blob/master/guidance/be-nice.md)
  
