@@ -14,23 +14,23 @@ they want to operate. However the following groups help run the general business
    accepting new projects based on the recommendations of the officers, advisory council
    and technical steering group. The full details of the roles and responsibilities of the directors
    are described in the .NET Foundation 
-   [Articles of Incorporation](http://dotnetfoundation.org/Media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
-   and [By-laws](http://dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
+   [Articles of Incorporation](http://www.dotnetfoundation.org/Media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
+   and [By-laws](http://www.dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
  - **[Officers & Staff](http://www.dotnetfoundation.org/team)** - The .NET Foundation has a
    number of officers to help run the affairs of the foundation including a President,
-   Vice-President, Executive Director, Company Secretary and Tresurer. The responsibilities
+   Vice-President, Executive Director, Company Secretary and Treasurer. The responsibilities
    of the officers are details in the .NET Foundation 
-   [Articles of Incorporation](http://dotnetfoundation.org/Media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
-   and [By-laws](http://dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf).
- - **[Advisory Council]((http://www.dotnetfoundation.org/team)** - The advisory council advises the Board of Directors on matters
+   [Articles of Incorporation](http://www.dotnetfoundation.org/Media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
+   and [By-laws](http://www.dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf).
+ - **[Advisory Council](http://www.dotnetfoundation.org/team)** - The advisory council advises the Board of Directors on matters
    of governance related to the running of projects in the foundation and also helps
    provide input to the board on what the .NET Foundation should be focussing on to help
    the .NET open source community. The council are made up of 9 individuals drawn from across the
    .NET Community (where no-one company can employ a majority of council members). 
  - **Technical Steering Group** - A working group of committers working on the core .NET projects to 
-   help co-ordinate how techical decisions are made and communicated between those projects. In addition
+   help co-ordinate how technical decisions are made and communicated between those projects. In addition
    to the core contributors to the projects, the Board of Directors may also nominate representatives
-   from corporate entities who are actively contributing to the .NET development platform ecosytem. 
+   from corporate entities who are actively contributing to the .NET development platform ecosystem. 
  - **Project Leaders** - Each project in the .NET Foundation has a nominated leader or leaders that
    represent the project to the .NET Foundation and are empowered to make decisions for the project
    on behalf of that project's community.  
