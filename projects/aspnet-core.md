@@ -7,7 +7,7 @@
 * [Project Info Site](http://www.asp.net/core)
 * [Project Code Site](https://github.com/aspnet/home)
 * Project License Type: [Apache License 2.0 (Apache)](https://github.com/aspnet/Home/blob/master/LICENSE.txt)
-* Project Main Contact: [Daniel Roth](http://www.codeplex.com/site/users/view/danroth27)
+* Project Main Contact: [Daniel Roth](https://github.com/danroth27)
 
 ### Quicklinks
 
