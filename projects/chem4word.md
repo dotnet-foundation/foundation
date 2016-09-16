@@ -16,6 +16,6 @@ other users or applications.
 
 ## Quicklinks
 
-* [Blog]()http://www.chem4word.co.uk/category/news/
+* [Blog](http://www.chem4word.co.uk/category/news/)
 * [Documentation](https://chem4word.codeplex.com/documentation)
 * [Contribute](https://chem4word.codeplex.com/)
