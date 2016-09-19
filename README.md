@@ -83,6 +83,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Xamarin.Auth](https://github.com/xamarin/Xamarin.Auth)
 - [Xamarin.Mobile](https://github.com/xamarin/Xamarin.Mobile)
 
+**xUnit.net**
+
+- [xUnit.net](https://github.com/xunit/xunit)
+
 ## .NET Foundation Community Resources
 
 - [.NET Foundation Website](http://www.dotnetfoundation.org)

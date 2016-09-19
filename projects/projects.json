@@ -87,7 +87,9 @@
 {"name":"chem4word.md",
 "contributor": "Chem4Word"},
 {"name":"reactive-extensions.md",
-"contributor": "Microsoft"}
+"contributor": "Microsoft"},
+{"name":"xunit.md",
+"contributor": "xUnit"}
 ],
 "contributors":
 [
