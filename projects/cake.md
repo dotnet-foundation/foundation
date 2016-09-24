@@ -9,6 +9,7 @@ built on top of Roslyn and the Mono Compiler, which uses C# as the scripting lan
 * [Project Code Site](https://github.com/cake-build)
 * Project License Type: [MIT](https://github.com/cake-build/cake/blob/develop/LICENSE)
 * Project Main Contacts: [Patrik Svensson](https://github.com/patriksvensson), [Mattias Karlsson](https://github.com/devlead) and [Gary Ewan Park](https://github.com/gep13)
+* Visual Studio Extension Contact: [Alistair Chapman](https://github.com/agc93)
 
 ## Quicklinks
 
