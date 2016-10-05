@@ -89,7 +89,9 @@
 {"name":"reactive-extensions.md",
 "contributor": "Microsoft"},
 {"name":"xunit.md",
-"contributor": "xUnit"}
+"contributor": "xUnit"},
+{"name":"uwpcommunitytookit.md",
+"contributor": "Microsoft"}
 ],
 "contributors":
 [
