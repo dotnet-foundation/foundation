@@ -51,6 +51,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
 - [Reactive Extensions for .NET](https://github.com/reactive-extensions/rx.net)
+- [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
 - [WCF](https://github.com/dotnet/wcf)
 - [WorldWideTelescope](http://github.com/WorldWideTelescope)
 
