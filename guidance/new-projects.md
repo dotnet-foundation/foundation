@@ -65,7 +65,8 @@ do we need to do the following:
        assignment to the .NET Foundation
  - [ ] If applicable, update any websites associated with the project to include
        "Supported by the <a href="http://dotnetfoundation.org">.NET Foundation</a>" or
-       similar link back to the .NET Foundation in the footer.
+       similar link back to the .NET Foundation in the footer. If applicable, please
+       include image links from [our swag repo](http://GitHub.com/dotnet/swag). (We think a link in the footer using the horizontal logo looks very nice.)
  - [ ] [Sign up for Project Leader news](http://eepurl.com/bOCfJP)
  - [ ] Configure any resources requested from the .NET Foundation (SSL Certs, Code Signing,
        Secret Management, Build Servers etc)
