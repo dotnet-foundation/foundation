@@ -91,7 +91,9 @@
 {"name":"xunit.md",
 "contributor": "xUnit"},
 {"name":"uwpcommunitytookit.md",
-"contributor": "Microsoft"}
+"contributor": "Microsoft"},
+{"name":"polly.md",
+"contributor": "App vNext"}
 ],
 "contributors":
 [
@@ -131,4 +133,7 @@
  {"name": "Reactive Extensions",
   "logo": "https://raw.githubusercontent.com/Reactive-Extensions/Rx.NET/master/Rx.NET/Resources/Artwork/Logo_Color_300x300.png",
   "web" : "http://reactivex.io/"}
+ {"name": "App vNext",
+  "logo": "https://avatars1.githubusercontent.com/u/9165070?v=3&s=200",
+  "web": "http://www.thepollyproject.org"}
 ]}
