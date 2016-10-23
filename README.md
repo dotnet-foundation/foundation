@@ -10,6 +10,10 @@ Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more inform
 
 There are many projects under the stewardship of the .NET Foundation. The [full list of projects](http://www.dotnetfoundation.org/projects) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
+**App vNext**
+
+- [Polly](https://github.com/App-vNext/Polly)
+
 **Brian Lagunas & Brian Noyes**
 
 - [Prism](https://github.com/PrismLibrary)
@@ -62,10 +66,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Orchard**
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
-
-**Polly**
-
-- [Polly](https://github.com/App-vNext/Polly)
 
 **Protobuild**
 
