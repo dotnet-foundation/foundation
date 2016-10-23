@@ -63,6 +63,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
 
+**Polly**
+
+- [Polly](https://github.com/App-vNext/Polly)
+
 **Protobuild**
 
 - [Protobuild](https://github.com/Protobuild/Protobuild)
