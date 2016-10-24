@@ -1,12 +1,8 @@
 # Polly
 
-[Polly](https://github.com/App-vNext/Polly/) is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
-
-Polly targets .NET 4.0, 4.5, PCL (Profile 259) and .NET CORE via .NET Standard 1.0.
-
 Today's cloud application, mobile, data-streaming, and IoT technologies all depend vitally on reliable connectivity. But underlying systems can fail, and networks are notoriously fickle: outages, latency, transient blips, spikes in load - all challenge 100% reliability.
 
-Polly helps you navigate the unreliable network. By providing resilience strategies in fluent-to-express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback, Polly can help you reduce fragility, and keep your systems and customers connected!
+[Polly](https://github.com/App-vNext/Polly/) helps you navigate the unreliable network. By providing resilience strategies in fluent-to-express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback, Polly can help you reduce fragility, and keep your systems and customers connected!
 
 The closest project comparison is to [Hystrix](https://github.com/Netflix/Hystrix/wiki) in the java world. The .NET space has no comparable offering. We are working to build Polly to match, and even exceed these features.
 
