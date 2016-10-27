@@ -1,5 +1,10 @@
 # New Project Checklist
 
+Participation in the .NET Foundation exposes your project to the wider world of .NET developers
+and helps you to build a better community. If you would like to learn a bit more about what
+joining the .NET Foundation involves then please see the guidance below. To start the conversation
+about your project joining the .NET Foundation then 
+[fill out this simple survey](https://dotnetfoundation.sharepoint.com/_layouts/15/guestaccess.aspx?guestaccesstoken=FIHTIfH3tzOmRhiXq4f%2bPVKhXkvZRosPxDiFl%2bfi6Ig%3d&docid=1_1657916a0083245a79bc0335d466ef80f&wdFormId=%7B3774A4ED%2DE93A%2D456C%2D8A1F%2DAB1FF94F080A%7D) to start the process.
 
 When projects join the foundation, there are two ways that they can come in.
 
