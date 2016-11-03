@@ -34,14 +34,14 @@ But you should make sure you have the following areas referenced in your README.
  - High level road map or link to roadmap documentation / open issues
 
 ### Code of Conduct
-The .NET Foundation has adopted the [Contributor Covenant](http://www.dotnetfoundation.org/code-of-conduct)
+The .NET Foundation has adopted the [Contributor Covenant](https://dotnetfoundation.org/code-of-conduct)
 You can read [more guidance on the Code of Conduct here](be-nice.md). However, it is
 good practice to include the following text somewhere appropriate in your README.
 
  ```
 This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/)
 to clarify expected behavior in our community.
-For more information see the [.NET Foundation Code of Conduct](http://www.dotnetfoundation.org/code-of-conduct). 
+For more information see the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). 
  ```
 
 ### .NET Foundation Pointer
@@ -53,6 +53,6 @@ end of your README is more than enough.
  ```
 ### .NET Foundation
 
-This project is supported by the [.NET Foundation](http://www.dotnetfoundation.org).
+This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
  
  ```

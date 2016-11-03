@@ -6,8 +6,8 @@ model is most appropriate to them. However we do put some basic structure in pla
 ensure good practices from the projects in the foundation and a certain minimum set of
 process.
 
- - [Articles of Incorporation](http://www.dotnetfoundation.org/Media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
- - [By-laws](http://www.dotnetfoundation.org/Media/Default/Documents/.NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
+ - [Articles of Incorporation](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
+ - [By-laws](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
  - [.NET Foundation Structure](foundation-structure.md)
  - [Project Governance Models](project-governance.md)
    - [Releasable vs non-releaseable materials](project-governance.md#releasable-and-non-releasable-materials)
