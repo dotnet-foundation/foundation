@@ -4,11 +4,11 @@
 
 We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for .NET, Microsoft’s comprehensive development framework.
 
-Please visit [dotnetfoundation.org](http://dotnetfoundation.org) for more information.
+Please visit [dotnetfoundation.org](https://dotnetfoundation.org) for more information.
 
 ## .NET Foundation Projects on GitHub
 
-There are many projects under the stewardship of the .NET Foundation. The [full list of projects](http://www.dotnetfoundation.org/projects) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
+There are many projects under the stewardship of the .NET Foundation. The [full list of projects](https://dotnetfoundation.org/projects?type=project) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
 **App vNext**
 
@@ -94,6 +94,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 ## .NET Foundation Community Resources
 
-- [.NET Foundation Website](http://www.dotnetfoundation.org)
+- [.NET Foundation Website](https://dotnetfoundation.org)
 - [.NET Foundation Forums](http://forums.dotnetfoundation.org/)
-- [.NET Foundation Blog](http://www.dotnetfoundation.org/blog)
+- [.NET Foundation Blog](https://dotnetfoundation.org/blog)

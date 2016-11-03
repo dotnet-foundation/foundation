@@ -43,7 +43,7 @@ do we need to do the following:
 - [ ] Make sure the people involved in the project want to join the .NET Foundation
 - [ ] Make sure the project has a clear understanding about how it accepts contributions and the process
       it follows when selecting new committers to the project.
-- [ ] [Register an interest](http://www.dotnetfoundation.org/get-involved) in joining the .NET Foundation
+- [ ] [Register an interest](https://dotnetfoundation.org/get-involved) in joining the .NET Foundation
 - [ ] Work with the .NET Foundation to fill out an On-Boarding Questionaire
 - [ ] .NET Foundation sends out completed questionaire to .NET Foundation Advisory Council for comments
 - [ ] .NET Foundation Executive Director submits new project proposal to the .NET Foundation Board
@@ -53,7 +53,7 @@ do we need to do the following:
  - [ ] Sign the contribution / assignment agreement
  - [ ] Agree a date to move into the .NET Foundation
  - [ ] Prepare a guest blog post announcing the move on the .NET Foundation Blog
- - [ ] Read the [code of conduct](http://www.dotnetfoundation.org/code-of-conduct), 
+ - [ ] Read the [code of conduct](https://dotnetfoundation.org/code-of-conduct), 
        [link to it in your code](be-nice.md) and 
        understand what to do if you are concerned about any behaviour or have
        concerns reported to you.
@@ -69,9 +69,9 @@ do we need to do the following:
  - [ ] If applicable, update any copyright statements in websites owned by the project to reflect 
        assignment to the .NET Foundation
  - [ ] If applicable, update any websites associated with the project to include
-       "Supported by the <a href="http://dotnetfoundation.org">.NET Foundation</a>" or
+       "Supported by the <a href="https://dotnetfoundation.org">.NET Foundation</a>" or
        similar link back to the .NET Foundation in the footer. If applicable, please
-       include image links from [our swag repo](http://GitHub.com/dotnet/swag). (We think a link in the footer using the horizontal logo looks very nice.)
+       include image links from [our swag repo](http://github.com/dotnet/swag). (We think a link in the footer using the horizontal logo looks very nice.)
  - [ ] [Sign up for Project Leader news](http://eepurl.com/bOCfJP)
  - [ ] Configure any resources requested from the .NET Foundation (SSL Certs, Code Signing,
        Secret Management, Build Servers etc)

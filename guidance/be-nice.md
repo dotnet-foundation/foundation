@@ -6,16 +6,16 @@ awareness of it in your community.
 
 The .NET Foundation was created to foster an open, innovative and inclusive
 community around open source .NET. To clarify expected behaviour in our
-communities we have adopted the [Contributor Covenant](http://www.dotnetfoundation.org/code-of-conduct).
+communities we have adopted the [Contributor Covenant](https://dotnetfoundation.org/code-of-conduct).
 This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/)
 and we feel it expresses our values well. 
 
-For a full copy of the [code of conduct](http://www.dotnetfoundation.org/code-of-conduct),
-see the .NET Foundation Website http://www.dotnetfoundation.org/code-of-conduct
+For a full copy of the [code of conduct](https://dotnetfoundation.org/code-of-conduct),
+see the .NET Foundation Website https://dotnetfoundation.org/code-of-conduct
 
 ## Applying the Code of Conduct to your project
 
-First of all, it is important that you read the [code of conduct](http://www.dotnetfoundation.org/code-of-conduct)
+First of all, it is important that you read the [code of conduct](https://dotnetfoundation.org/code-of-conduct)
 and understand when to be on the look out for unnaceptable behaviour, what to do if you see
 it or if someone reports their concerns to you.
 
