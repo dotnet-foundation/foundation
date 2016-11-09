@@ -14,5 +14,7 @@ built on top of Roslyn and the Mono Compiler, which uses C# as the scripting lan
 ## Quicklinks
 
 * [Documentation](http://cakebuild.net/docs)
+* [Blog](http://cakebuild.net/blog)
 * [Discussions and Help](https://gitter.im/cake-build/cake)
+* [Twitter](https://twitter.com/cakebuildnet)
 * [Contribute](https://github.com/cake-build/cake/blob/develop/CONTRIBUTING.md)
