@@ -6,12 +6,12 @@ by Ximian, which was acquired by Novell, then at Novell, then at [Xamarin](http:
 now [Microsoft](http://microsoft.com).
 
 Mono provides a complete SDK (compiler, runtimes, libraries) to develop .NET applications on 
-a wide range of platforms.   It most commonly used as a .NET runtime that supports the .NET desktop
+a wide range of platforms. It is most commonly used as a .NET runtime that supports the .NET desktop
 API profile, as well as an embeddable runtime that is used to power mobile platforms (Xamarin.iOS,
 Xamarin.Android, Xamarin.tvOS, Xamarin.Mac, Xamarin.watchOS) and gaming consoles.
 
 Mono is part of the [.NET Foundation](https://dotnetfoundation.org/) and [Microsoft](https://microsoft.com)
-supports it as part of the Xamarin commercial offerings.    Additionally, the Mono project has an active and 
+supports it as part of the Xamarin commercial offerings. Additionally, the Mono project has an active and 
 enthusiastic community. 
 
 ## Project Details
