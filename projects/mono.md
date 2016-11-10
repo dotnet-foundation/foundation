@@ -1,17 +1,18 @@
 # Mono
 
-Mono, the open source development platform based on the .NET Framework, allows developers to build cross-platform applications with improved developer productivity.  Supported previously by Novell, [Xamarin](http://xamarin.com/) and now [Microsoft](http://www.microsoft.com/) and the [.NET Foundation](https://dotnetfoundation.org/), the Mono project has an active and enthusiastic contributing community. Mono includes both developer tools and the infrastructure needed to run .NET client and server applications.
+[Mono](http://mono-project.com) is an cross-platform and open source implementation of the .NET framework 
+that was started independently in 2001.   The technology was originally developed
+by Ximian, which was acquired by Novell, then at Novell, then at [Xamarin](http://xamarin.com) and 
+now [Microsoft](http://microsoft.com).
 
-## The Components
+Mono provides a complete SDK (compiler, runtimes, libraries) to develop .NET applications on 
+a wide range of platforms.   It most commonly used as a .NET runtime that supports the .NET desktop
+API profile, as well as an embeddable runtime that is used to power mobile platforms (Xamarin.iOS,
+Xamarin.Android, Xamarin.tvOS, Xamarin.Mac, Xamarin.watchOS) and gaming consoles.
 
-There are several components that make up Mono:
-
-* **C# Compiler** - The Mono C# compiler is considered feature complete for C# 1.0, C# 2.0, C# 3.0, C# 4.0, C# 5.0 and C# 6.0. A good description of the feature of the various versions is available on [Wikipedia](http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29#Versions).
-* **Mono Runtime** - The runtime implements the ECMA Common Language Infrastructure (CLI). The runtime provides a Just-in-Time (JIT) compiler, an Ahead-of-Time compiler (AOT), a library loader, the garbage collector, a threading system and interoperability functionality.
-* **.NET Framework Class Library** - The Mono platform provides a comprehensive set of classes that provide a solid foundation to build applications on. These classes are compatible with Microsoft’s .Net Framework classes.
-* **Mono Class Library** - Mono also provides many classes that go above and beyond the Base Class Library provided by Microsoft. These provide additional functionality that are useful, especially in building Linux applications. Some examples are classes for Gtk+, Zip files, LDAP, OpenGL, Cairo, POSIX, etc.
-
-
+Mono is part of the [.NET Foundation](https://dotnetfoundation.org/) and [Microsoft](https://microsoft.com)
+supports it as part of the Xamarin commercial offerings.    Additionally, the Mono project has an active and 
+enthusiastic community. 
 
 ## Project Details
 
