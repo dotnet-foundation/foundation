@@ -1,6 +1,6 @@
 # IdentityServer
 
-OpenID Connect and OAuth 2.0 Framework for Katana and ASP.NET
+OpenID Connect and OAuth 2.0 Framework for Katana and ASP.NET Core
 
 It enables the following features in your applications:
 
