@@ -39,8 +39,7 @@ You can read [more guidance on the Code of Conduct here](be-nice.md). However, i
 good practice to include the following text somewhere appropriate in your README.
 
  ```
-This project has adopted the code of conduct defined by the [Contributor Covenant](http://contributor-covenant.org/)
-to clarify expected behavior in our community.
+This project has adopted the code of conduct defined by the Contributor Covenant to clarify expected behavior in our community.
 For more information see the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). 
  ```
 
