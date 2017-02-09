@@ -29,7 +29,7 @@ But you should make sure you have the following areas referenced in your README.
    project solve the problem differently.
  - How to contribute to the project or a link to the CONTRIBUTE.md
  - Information on how to get started as a developer, information on Gitter, IRC, mailing list etc
- - How to provide feedbad (Issues, User Voice, Forums etc)
+ - How to provide feedback (Issues, User Voice, Forums etc)
  - License type and link to the project LICENSE
  - High level road map or link to roadmap documentation / open issues
 
