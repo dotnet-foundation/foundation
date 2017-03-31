@@ -16,12 +16,12 @@ presentation that you need for your content.
 * [Project Info Site](http://www.orchardproject.net/)
 * [Project Code Site](https://github.com/OrchardCMS/Orchard)
 * Project License Type: [New BSD License(BSD)](https://raw.githubusercontent.com/OrchardCMS/Orchard/master/LICENSE.txt)
-* Project Main Contact: [Steering Committee](http://orchardproject.net/about)
+* Project Main Contact: [Steering Committee](http://orchardproject.net/about-us)
 
 ### Quicklinks
 
 * [Documentation](http://docs.orchardproject.net/)
 * [Discussions](http://orchardproject.net/discussions)
 * [Contribute](http://www.orchardproject.net/contribution)
-* [JabbR](https://jabbr.net/#/rooms/orchard)
+* [Gitter](https://gitter.im/OrchardCMS/Orchard)
 
