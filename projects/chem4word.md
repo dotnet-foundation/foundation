@@ -10,9 +10,9 @@ other users or applications.
 ## Project Details
 
 * [Website](http://www.chem4word.co.uk/)
-* [Source](https://chem4word.codeplex.com/SourceControl/latest)
-* Project License Type: [Apache 2.0](https://chem4word.codeplex.com/license)
-* Project Main Contacts: [Clyde Davies](https://www.codeplex.com/site/users/view/ClydeDavies), [Alex Wade](https://www.codeplex.com/site/users/view/AlexWade) 
+* [Source](https://github.com/Chem4Word/Version2)
+* Project License Type: [Apache 2.0](https://github.com/Chem4Word/Version2/blob/master/Licence.md)
+* Project Main Contacts: [Clyde Davies](https://github.com/deadlyvices), [Mike Williams](https://github.com/MikeWilliams-UK) 
 
 ## Quicklinks
 
