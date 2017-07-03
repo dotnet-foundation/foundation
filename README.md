@@ -23,6 +23,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Cake](https://github.com/cake-build/cake)
 - [(and more)](https://github.com/cake-build)
 
+**Chemistry Add-In for Word**
+
+- [Chem4Word](https://github.com/Chem4Word)
+
 **Couchbase**
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
