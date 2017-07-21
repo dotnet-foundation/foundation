@@ -61,6 +61,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Reactive Extensions for .NET](https://github.com/reactive-extensions/rx.net)
 - [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
 - [WCF](https://github.com/dotnet/wcf)
+- [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio/)
 - [WorldWideTelescope](http://github.com/WorldWideTelescope)
 
 **Mono Project**
