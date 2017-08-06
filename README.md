@@ -90,6 +90,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Protobuild Manager](https://github.com/Protobuild/Protobuild.Manager)
 - [(and more)](https://github.com/Protobuild/)
 
+**ReactiveUI**
+
+- [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
+
 **Umbraco**
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
