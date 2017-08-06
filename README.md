@@ -14,6 +14,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Polly](https://github.com/App-vNext/Polly)
 
+**AutoMapper**
+
+- [AutoMapper](https://github.com/automapper/automapper)
+
 **Brian Lagunas & Brian Noyes**
 
 - [Prism](https://github.com/PrismLibrary)

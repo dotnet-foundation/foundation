@@ -97,7 +97,9 @@
 {"name":"polly.md",
 "contributor": "App vNext"},
 {"name":"peachpie.md",
-"contributor": "Peachpie Compiler Platform"}
+"contributor": "Peachpie Compiler Platform"},
+{"name":"automapper.md",
+"contributor": "AutoMapper"}
 ],
 "contributors":
 [
@@ -142,5 +144,8 @@
   "web": "http://www.thepollyproject.org"},
  {"name": "Peachpie Compiler Platform",
   "logo": "https://raw.githubusercontent.com/peachpiecompiler/peachpie/master/docs/logos/peachpie-round-pieonly.png",
-  "web": "http://www.peachpie.io"}
+  "web": "http://www.peachpie.io"},
+ {"name": "AutoMapper",
+  "logo": "https://avatars0.githubusercontent.com/u/890883?v=4&s=200",
+  "web": "http://automapper.org"}
 ]}
