@@ -95,7 +95,9 @@
 {"name":"uwpcommunitytookit.md",
 "contributor": "Microsoft"},
 {"name":"polly.md",
-"contributor": "App vNext"}
+"contributor": "App vNext"},
+{"name":"automapper.md",
+"contributor": "AutoMapper"}
 ],
 "contributors":
 [
@@ -137,5 +139,8 @@
   "web" : "http://reactivex.io/"},
  {"name": "App vNext",
   "logo": "https://avatars1.githubusercontent.com/u/9165070?v=3&s=200",
-  "web": "http://www.thepollyproject.org"}
+  "web": "http://www.thepollyproject.org"},
+ {"name": "AutoMapper",
+  "logo": "https://avatars0.githubusercontent.com/u/890883?v=4&s=200",
+  "web": "http://automapper.org"}
 ]}
