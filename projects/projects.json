@@ -96,6 +96,8 @@
 "contributor": "Microsoft"},
 {"name":"polly.md",
 "contributor": "App vNext"},
+{"name":"peachpie.md",
+"contributor": "Peachpie Compiler Platform"},
 {"name":"automapper.md",
 "contributor": "AutoMapper"}
 ],
@@ -140,6 +142,9 @@
  {"name": "App vNext",
   "logo": "https://avatars1.githubusercontent.com/u/9165070?v=3&s=200",
   "web": "http://www.thepollyproject.org"},
+ {"name": "Peachpie Compiler Platform",
+  "logo": "https://raw.githubusercontent.com/peachpiecompiler/peachpie/master/docs/logos/peachpie-round-pieonly.png",
+  "web": "http://www.peachpie.io"},
  {"name": "AutoMapper",
   "logo": "https://avatars0.githubusercontent.com/u/890883?v=4&s=200",
   "web": "http://automapper.org"}

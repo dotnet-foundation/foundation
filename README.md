@@ -80,6 +80,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
 
+**Peachpie Compiler Platform**
+
+- [Peachpie](https://github.com/peachpiecompiler/peachpie)
+
 **Protobuild**
 
 - [Protobuild](https://github.com/Protobuild/Protobuild)
