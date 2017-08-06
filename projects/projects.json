@@ -99,7 +99,9 @@
 {"name":"peachpie.md",
 "contributor": "Peachpie Compiler Platform"},
 {"name":"automapper.md",
-"contributor": "AutoMapper"}
+"contributor": "AutoMapper"},
+{"name":"reactiveui.md",
+"contributor": "ReactiveUI"} 
 ],
 "contributors":
 [
@@ -147,5 +149,8 @@
   "web": "http://www.peachpie.io"},
  {"name": "AutoMapper",
   "logo": "https://avatars0.githubusercontent.com/u/890883?v=4&s=200",
-  "web": "http://automapper.org"}
+  "web": "http://automapper.org"},
+ {"name": "ReactiveUI",
+  "logo": "https://avatars0.githubusercontent.com/u/2327577?v=4&s=200",
+  "web": "http://reactiveui.net"} 
 ]}
