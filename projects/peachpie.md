@@ -1,6 +1,6 @@
 # Peachpie Compiler Platform
 
-[Peachpie](http://www.peachpie.io) is a modern compiler and runtime of PHP for .NET and .NET Core, 
+[Peachpie](https://www.peachpie.io) is a modern compiler and runtime of PHP for .NET and .NET Core, 
 built on top of Roslyn. It aims to be fully compatible with the PHP language, including PHP 7.1 and any newly released versions.
 
 ## Project Goals
@@ -13,15 +13,15 @@ built on top of Roslyn. It aims to be fully compatible with the PHP language, in
 
 ## Project Details
 
-* [Project Info Site](http://www.peachpie.io)
+* [Project Info Site](https://www.peachpie.io)
 * [Project Code Site](https://github.com/peachpiecompiler/peachpie)
 * Project License Type: [Apache License 2.0](https://github.com/peachpiecompiler/peachpie/blob/master/LICENSE.txt)
 * Project Main Contacts: [Jakub Misek](https://github.com/jakubmisek), [Benjamin Fistein](https://github.com/bfistein)
 
 ## Quicklinks
 
-* [Getting Started](http://www.peachpie.io/getstarted) and [Documentation](https://github.com/peachpiecompiler/peachpie/wiki)
-* [Blog](http://www.peachpie.io/blog)
+* [Getting Started](https://www.peachpie.io/getstarted) and [Documentation](https://github.com/peachpiecompiler/peachpie/wiki)
+* [Blog](https://www.peachpie.io/blog)
 * [Discussions and Help](https://gitter.im/iolevel/peachpie)
 * [Twitter](https://twitter.com/pchpcompiler) and [Facebook](https://www.facebook.com/pchpcompiler)
 * [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=iolevel.peachpie-vscode)
