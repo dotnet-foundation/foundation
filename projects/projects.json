@@ -101,7 +101,9 @@
 {"name":"automapper.md",
 "contributor": "AutoMapper"},
 {"name":"reactiveui.md",
-"contributor": "ReactiveUI"} 
+"contributor": "ReactiveUI"},
+{"name":"benchmarkdotnet.md",
+"contributor": "BenchmarkDotNet"} 
 ],
 "contributors":
 [
@@ -152,5 +154,8 @@
   "web": "http://automapper.org"},
  {"name": "ReactiveUI",
   "logo": "https://avatars0.githubusercontent.com/u/2327577?v=4&s=200",
-  "web": "http://reactiveui.net"} 
+  "web": "http://reactiveui.net"},
+ {"name": "BenchmarkDotNet",
+  "logo": "https://raw.githubusercontent.com/dotnet/BenchmarkDotNet/master/docs/guide/logo.png",
+  "web": "http://benchmarkdotnet.org/"} 
 ]}

@@ -18,6 +18,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [AutoMapper](https://github.com/automapper/automapper)
 
+**BenchmarkDotNet**
+
+- [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
+
 **Brian Lagunas & Brian Noyes**
 
 - [Prism](https://github.com/PrismLibrary)
