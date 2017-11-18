@@ -108,7 +108,7 @@
 "contributors":
 [
 {"name": "Microsoft",
- "logo": "http://mscorpnews.blob.core.windows.net/ncmedia/2014/10/MSFT_logo_rgb_C-Gray.png",
+ "logo": "https://mscorpnews.blob.core.windows.net/ncmedia/2014/10/MSFT_logo_rgb_C-Gray.png",
  "web" : "http://www.microsoft.com"},
  {"name": "Couchbase",
  "logo": "https://raw.githubusercontent.com/couchbase/couchbase-lite-net/master/packaging/component/icons/couchbase-lite_128x128.png",
@@ -117,7 +117,7 @@
  "logo": "https://avatars0.githubusercontent.com/u/790012?v=2&s=200",
  "web" : "https://xamarin.com/"},
 {"name": "Laurent Bugnion",
- "logo": "http://www.galasoft.ch/layout/mvvm/MVVM_BlackText_190x147.png",
+ "logo": "https://raw.githubusercontent.com/paulcbetts/mvvmlight/master/Installer/InstallItems/html/MVVM_BlackText_190x147.png",
  "web" : "http://www.mvvmlight.net/"},
 {"name": "Force.com",
  "logo": "https://developer.salesforce.com/resource/images/salesforce-developer-network-logo_1.png",
