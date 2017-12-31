@@ -6,7 +6,7 @@
 
 * [Website](http://humanizr.net/)
 * [Source](https://github.com/Humanizr/Humanizer)
-* License: [Apache 2.0](https://opensource.org/licenses/MIT)
+* License: [MIT](https://opensource.org/licenses/MIT)
 * Project Leads: [Mehdi Khalili](https://github.com/MehdiK) and [Oren Novotny](https://github.com/onovotny)
 
 ## Quicklinks
