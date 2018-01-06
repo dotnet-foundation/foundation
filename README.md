@@ -22,10 +22,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
 
-**Cameron Taggart**
-
-- [SourceLink](https://github.com/ctaggart/SourceLink)
-
 **Brian Lagunas & Brian Noyes**
 
 - [Prism](https://github.com/PrismLibrary)
@@ -34,6 +30,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Cake](https://github.com/cake-build/cake)
 - [(and more)](https://github.com/cake-build)
+
+**Cameron Taggart**
+
+- [SourceLink](https://github.com/ctaggart/SourceLink)
 
 **Chemistry Add-In for Word**
 
