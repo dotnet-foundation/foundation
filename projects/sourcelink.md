@@ -12,5 +12,4 @@
 ## Quicklinks
 
 - [Documentation](https://github.com/ctaggart/SourceLink)
-- [Download](http://www.mono-project.com/download/)
 - [Contributing](https://github.com/ctaggart/SourceLink/wiki/Contributing)
