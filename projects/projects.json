@@ -103,7 +103,9 @@
 {"name":"reactiveui.md",
 "contributor": "ReactiveUI"},
 {"name":"benchmarkdotnet.md",
-"contributor": "BenchmarkDotNet"} 
+"contributor": "BenchmarkDotNet"}, 
+{"name":"identityserver.md",
+"contributor": "IdentityServer"}, 
 ],
 "contributors":
 [
@@ -157,5 +159,8 @@
   "web": "http://reactiveui.net"},
  {"name": "BenchmarkDotNet",
   "logo": "https://raw.githubusercontent.com/dotnet/BenchmarkDotNet/master/docs/guide/logo.png",
-  "web": "http://benchmarkdotnet.org/"} 
+  "web": "http://benchmarkdotnet.org/"},
+ {"name": "IdentityServer",
+  "logo": "https://identityserver.io/images/IDserver_logotransparent.png",
+  "web": "https://identityserver.io/"}   
 ]}
