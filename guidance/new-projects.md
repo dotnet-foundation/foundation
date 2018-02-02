@@ -59,7 +59,7 @@ do we need to do the following:
        concerns reported to you.
  - [ ] Tell the world we have joined!
  - [ ] Get CLA Automation enabled to ensure contributors can easily sign the 
-       [Contribution License Agreement](https://cla2.dotnetfoundation.org/cladoc/net-foundation-contribution-license-agreement.pdf)
+       [Contribution License Agreement](https://github.com/dotnet/home/blob/master/guidance/net-foundation-contribution-license-agreement.pdf)
  - [ ] Send a PR to add the Project into the .NET Foundation 
        [list](https://github.com/dotnet/home/tree/master/projects)
  - [ ] Ensure the repo contents are up to date with [.NET Foundation guidance](repo-guide.md)
