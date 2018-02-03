@@ -10,13 +10,12 @@ package repository used by all package authors and consumers.
 * [Project Info Site](http://www.nuget.org)
 * [Project Code Site](https://github.com/nuget/home)
 * Project License Type: [Apache License 2.0 (Apache)](https://github.com/nuget/home/blob/master/LICENSE.txt)
-* Project Main Contact(s): [Yishai Galatzer](https://twitter.com/yigalatz), [Jeff Fritz](https://twitter.com/csharpfritz)
+* Project Main Contact(s): [Anand Gaurav](https://twitter.com/adgrv), [Rob Relyea](https://twitter.com/rrelyea)
 
 ### Quicklinks
 
-* [Documentation](http://docs.nuget.org)
+* [Documentation](https://docs.nuget.org)
 * [Discussions](https://github.com/nuget/home/issues)
-* [Blog](http://blog.nuget.org)
+* [Blog](https://blog.nuget.org)
 * Twitter: [@nuget](https://twitter.com/nuget)
-* [JabbR](https://jabbr.net/#rooms/nuget)
 * [Contribute](http://docs.nuget.org/contribute/contributing-to-NuGet)
