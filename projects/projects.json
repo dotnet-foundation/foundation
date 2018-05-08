@@ -10,6 +10,8 @@
 "contributor": "Microsoft"},
 {"name":"aspnet-core.md",
 "contributor": "Microsoft"},
+{"name":"mlnet.md",
+"contributor": "Microsoft"},
 {"name":"azure-sdk.md",
 "contributor": "Microsoft"},
 {"name":"azure-webjobs-sdk.md",
