@@ -6,7 +6,6 @@
 * [Project Info Site](http://www.mono-project.com/Drawing)
 * [Project Code Site](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
 * Project License Type: [MIT](https://github.com/jstedfast/MimeKit/blob/master/License.md)
-* Project Main Contact: [mono@xamarin.com](mailto:mono@xamarin.com)
 
 ## Quicklinks
 
