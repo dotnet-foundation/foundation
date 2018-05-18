@@ -44,6 +44,13 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [IdentityManager](https://github.com/identitymanager)
 - [IdentityServer](https://github.com/identityserver)
 
+**DNN Platform**
+  - [Platform Core](https://github.com/dnnsoftware/Dnn.Platform)
+  - [Admin Experience Library](https://github.com/dnnsoftware/Dnn.AdminExperience.Library)
+  - [Admin Experience Extensions](https://github.com/dnnsoftware/Dnn.AdminExperience.Extensions)
+  - [Edit Bar](https://github.com/dnnsoftware/Dnn.EditBar)
+  - [React Common Library](https://github.com/dnnsoftware/Dnn.React.Common)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
