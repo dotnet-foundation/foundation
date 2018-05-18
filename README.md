@@ -31,6 +31,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Cake](https://github.com/cake-build/cake)
 - [(and more)](https://github.com/cake-build)
 
+**Cameron Taggart**
+
+- [SourceLink](https://github.com/ctaggart/SourceLink)
+
 **Chemistry Add-In for Word**
 
 - [Chem4Word](https://github.com/Chem4Word)
