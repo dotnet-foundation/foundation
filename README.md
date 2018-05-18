@@ -31,6 +31,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Cake](https://github.com/cake-build/cake)
 - [(and more)](https://github.com/cake-build)
 
+**Cameron Taggart**
+
+- [SourceLink](https://github.com/ctaggart/SourceLink)
+
 **Chemistry Add-In for Word**
 
 - [Chem4Word](https://github.com/Chem4Word)
@@ -43,6 +47,13 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [IdentityManager](https://github.com/identitymanager)
 - [IdentityServer](https://github.com/identityserver)
+
+**DNN Platform**
+  - [Platform Core](https://github.com/dnnsoftware/Dnn.Platform)
+  - [Admin Experience Library](https://github.com/dnnsoftware/Dnn.AdminExperience.Library)
+  - [Admin Experience Extensions](https://github.com/dnnsoftware/Dnn.AdminExperience.Extensions)
+  - [Edit Bar](https://github.com/dnnsoftware/Dnn.EditBar)
+  - [React Common Library](https://github.com/dnnsoftware/Dnn.React.Common)
 
 **Force.com**
 

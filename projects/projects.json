@@ -10,6 +10,8 @@
 "contributor": "Microsoft"},
 {"name":"aspnet-core.md",
 "contributor": "Microsoft"},
+{"name":"mlnet.md",
+"contributor": "Microsoft"},
 {"name":"azure-sdk.md",
 "contributor": "Microsoft"},
 {"name":"azure-webjobs-sdk.md",
@@ -105,7 +107,9 @@
 {"name":"benchmarkdotnet.md",
 "contributor": "BenchmarkDotNet"},
 {"name":"humanizer.md",
-  "contributor": "Humanizer"}  
+  "contributor": "Humanizer"},  
+{"name":"identityserver.md",
+"contributor": "IdentityServer"} 
 ],
 "contributors":
 [
@@ -149,7 +153,7 @@
   "logo": "https://avatars1.githubusercontent.com/u/9165070?v=3&s=200",
   "web": "http://www.thepollyproject.org"},
  {"name": "Peachpie Compiler Platform",
-  "logo": "https://github.com/peachpiecompiler/peachpie/blob/master/docs/logos/round-orange-196x196.png",
+  "logo": "https://raw.githubusercontent.com/peachpiecompiler/peachpie/3df096b8564f5650d3429f20c840f0d9e8db5bee/docs/logos/round-orange-196x196.png",
   "web": "http://www.peachpie.io"},
  {"name": "AutoMapper",
   "logo": "https://avatars0.githubusercontent.com/u/890883?v=4&s=200",
@@ -162,5 +166,8 @@
   "web": "http://benchmarkdotnet.org/"},
  {"name": "Humanizer",
   "logo": "https://raw.githubusercontent.com/Humanizr/Humanizer/master/logo.png",
-  "web": "http://humanizr.net/"}  
+  "web": "http://humanizr.net/"},  
+ {"name": "IdentityServer",
+  "logo": "https://identityserver.io/images/IDserver_logotransparent.png",
+  "web": "https://identityserver.io/"}   
 ]}
