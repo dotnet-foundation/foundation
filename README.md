@@ -74,6 +74,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [ASP.NET SignalR](https://github.com/SignalR/SignalR)
 - [Azure SDK for .NET](https://github.com/Azure/azure-sdk-for-net)
 - [Kudu](https://github.com/projectkudu/kudu)
+- [ML.NET](https://github.com/dotnet/machinelearning)
 - [MS Build](https://github.com/microsoft/msbuild)
 - [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
