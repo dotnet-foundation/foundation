@@ -16,7 +16,7 @@ Jim Hugunin created the project and actively contributed to it up until Version 
 * [IronPython3 Source](https://github.com/IronLanguages/ironpython3)
 * License: [Apache 2.0](https://github.com/IronLanguages/dlr/blob/master/LICENSE)
 * Project Lead: [Alex Earl](https://github.com/slide)
-* Core Team: [Alex Earl](https://github.com/slide) and [Stéphane Lozier](https://github.com/slozire)
+* Core Team: [Alex Earl](https://github.com/slide) and [Stéphane Lozier](https://github.com/slozier)
 
 ## Quicklinks
 
