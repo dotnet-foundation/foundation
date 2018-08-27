@@ -118,8 +118,8 @@
 {"name": "Microsoft",
  "logo": "https://mscorpnews.blob.core.windows.net/ncmedia/2014/10/MSFT_logo_rgb_C-Gray.png",
  "web" : "http://www.microsoft.com"},
- {"name": "Pivotal Software, Inc."
-  "logo": "https://brandfolder.com/pivotal-assets/attachments/ohxttd-7yxa60-clvf50/pivotal-assets-pivotal-genericfile.png"
+ {"name": "Pivotal Software, Inc.",
+  "logo": "https://brandfolder.com/pivotal-assets/attachments/ohxttd-7yxa60-clvf50/pivotal-assets-pivotal-genericfile.png",
   "web" : "https://pivotal.io"},
  {"name": "Couchbase",
  "logo": "https://raw.githubusercontent.com/couchbase/couchbase-lite-net/master/packaging/component/icons/couchbase-lite_128x128.png",
