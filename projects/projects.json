@@ -109,7 +109,9 @@
 {"name":"humanizer.md",
   "contributor": "Humanizer"},  
 {"name":"identityserver.md",
-"contributor": "IdentityServer"} 
+"contributor": "IdentityServer"},
+{"name":"dnn-platform.md",
+"contributor": "DNN"}
 ],
 "contributors":
 [
@@ -184,5 +186,8 @@
   "web": "http://www.chem4word.co.uk/"},
  {"name": "xUnit",
   "logo": "https://avatars2.githubusercontent.com/u/2092016?s=200&v=4",
-  "web": "https://xunit.github.io/"}
+  "web": "https://xunit.github.io/"},
+ {"name": "DNN Corp.",
+  "logo": "https://avatars2.githubusercontent.com/u/5099054?s=200&v=4",
+  "web": "http://www.dnnsoftware.com/"}
 ]}
