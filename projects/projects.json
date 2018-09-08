@@ -111,7 +111,7 @@
 {"name":"identityserver.md",
 "contributor": "IdentityServer"},
 {"name":"dnn-platform.md",
-"contributor": "DNN"}
+"contributor": "DNN Corp"}
 ],
 "contributors":
 [
@@ -187,7 +187,7 @@
  {"name": "xUnit",
   "logo": "https://avatars2.githubusercontent.com/u/2092016?s=200&v=4",
   "web": "https://xunit.github.io/"},
- {"name": "DNN Corp.",
+ {"name": "DNN Corp",
   "logo": "https://avatars2.githubusercontent.com/u/5099054?s=200&v=4",
   "web": "http://www.dnnsoftware.com/"}
 ]}
