@@ -122,7 +122,7 @@
   "logo": "https://brandfolder.com/pivotal-assets/attachments/ohxttd-7yxa60-clvf50/pivotal-assets-pivotal-genericfile.png",
   "web" : "https://pivotal.io"},
  {"name": "Couchbase",
- "logo": "https://raw.githubusercontent.com/couchbase/couchbase-lite-net/master/packaging/component/icons/couchbase-lite_128x128.png",
+ "logo": "https://raw.githubusercontent.com/couchbase/couchbase-lite-net/master/packaging/nuget/logo.png",
  "web" : "http://www.couchbase.com/"},
 {"name": "Xamarin",
  "logo": "https://avatars0.githubusercontent.com/u/790012?v=2&s=200",
