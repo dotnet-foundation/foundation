@@ -18,7 +18,7 @@ Administration tool that used to be built into Visual Studio.
 
 * [Documentation](https://github.com/IdentityManager/IdentityManager/wiki)
 * [Contribute](https://github.com/IdentityManager/IdentityManager2/blob/master/CONTRIBUTING.md)
-* [Rock Solid Knowledge website](https://rocksolidknowledge.com) 
+* [Rock Solid Knowledge](https://rocksolidknowledge.com) 
 * [Scott's blog](https://www.scottbrady91.com) 
 * [Brock's blog](https://brockallen.com/)
 * [Chat](https://gitter.im/IdentityManager/IdentityManager)
