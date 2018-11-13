@@ -1,8 +1,8 @@
 # IdentityServer
 
-OpenID Connect and OAuth 2.0 Framework for Katana and ASP.NET Core
+OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
 
-It enables the following features in your applications:
+IdentityServer is a toolkit for implementing identity & access control features in your software, e.g.:
 
 * Authentication as a Service
 * Single Sign-on / Sign-out
@@ -21,7 +21,7 @@ IdentityServer is [certified](https://openid.net/certification/) by the OpenID F
 ### Quicklinks
 
 * [Documentation](https://identityserver4.readthedocs.io)
-* [Discussions](https://github.com/identityserver/IdentityServer3/issues)
+* [Discussions](https://github.com/identityserver/IdentityServer4/issues)
 * [Dominick's blog](http://leastprivilege.com/)
 * [Brock's blog](http://brockallen.com/)
 * Twitter: [@leastprivilege](https://twitter.com/leastprivilege) & 
