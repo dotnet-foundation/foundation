@@ -45,7 +45,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **Dominick Baier & Brock Allen**
 
-- [IdentityManager](https://github.com/identitymanager)
 - [IdentityServer](https://github.com/identityserver)
 
 **DNN Platform**
@@ -113,6 +112,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **ReactiveUI**
 
 - [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
+
+**Rock Solid Knowledge**
+
+- [IdentityManager](https://github.com/IdentityManager/IdentityManager2)
 
 **Umbraco**
 
