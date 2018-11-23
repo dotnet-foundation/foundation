@@ -1,6 +1,6 @@
 # IdentityServer
 
-OpenID Connect and OAuth 2.0 Framework for ASP.NET Core
+OpenID Connect and OAuth 2.0 Framework for ASP.NET Core  
 
 IdentityServer is a toolkit for implementing identity & access control features in your software, e.g.:
 
