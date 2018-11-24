@@ -12,4 +12,4 @@
 ## Quicklinks
 * [Contribute](https://dotnet.github.io/orleans/Community/Contributing.html)
 * [Discussions](https://gitter.im/dotnet/orleans)
-* [Documentation](http://dotnet.github.io/orleans/Documentation/Introduction.html)
+* [Documentation](https://dotnet.github.io/orleans/Documentation/index.html)

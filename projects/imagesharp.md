@@ -9,7 +9,7 @@ Designed to democratize image processing, ImageSharp brings you an incredibly po
 - [Project Info Site](https://sixlabors.com/projects/imagesharp)
 - [Project Code Site](https://github.com/SixLabors/ImageSharp)
 - Project Docs Repos: [Concepts and APIs](https://github.com/SixLabors/docs)
-- Project License Type: [Apache 2.0](https://github.com/SixLabors/ImageSharp/master/LICENSE)
+- Project License Type: [Apache 2.0](https://github.com/SixLabors/ImageSharp/blob/master/LICENSE)
 
 ### Quicklinks
 

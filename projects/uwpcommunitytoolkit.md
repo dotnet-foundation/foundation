@@ -6,12 +6,12 @@ The [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) is
 
 * [Source](https://github.com/Microsoft/UWPCommunityToolkit)
 * [Sample App](https://aka.ms/uwptoolkitapp)
-* [Getting Started](http://uwpcommunitytoolkit.readthedocs.io/en/master/Getting-Started/)
-* License: [MIT](https://github.com/Microsoft/UWPCommunityToolkit/blob/dev/license.md)
+* [Getting Started](https://docs.microsoft.com/windows/communitytoolkit/getting-started)
+* License: [MIT](https://github.com/Microsoft/UWPCommunityToolkit/blob/master/license.md)
 * Project Leads: [David Catuhe aka Deltakosh](https://github.com/deltakosh)
 
 ## Quicklinks
 
-* [Documentation](http://docs.uwpcommunitytoolkit.com/en/master/)
+* [Documentation](https://docs.microsoft.com/windows/communitytoolkit/index)
 * Discussions are held on [Github issues](https://github.com/Microsoft/UWPCommunityToolkit/issues)
-* [Contribution guidelines](https://github.com/Microsoft/UWPCommunityToolkit/blob/dev/contributing.md)
+* [Contribution guidelines](https://github.com/Microsoft/UWPCommunityToolkit/blob/master/contributing.md)

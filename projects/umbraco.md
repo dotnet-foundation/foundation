@@ -5,11 +5,11 @@
 ## Project Details
 * [Project Info Site](https://umbraco.com/) 
 * [Project Code Site](https://github.com/umbraco/Umbraco-CMS) 
-* Project License Type: [MIT](https://github.com/umbraco/Umbraco-CMS/blob/7.2.0/LICENSE.md)
+* Project License Type: [MIT](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/LICENSE.md)
 * Project Main Contacts: [Umbraco Team](https://umbraco.com/about-us/team.aspx) 
 
 ## Quicklinks
 
 * [Documentation](https://our.umbraco.org/documentation) 
 * [Discussions and Help](https://our.umbraco.org/forum) 
-* [Contribute](https://our.umbraco.org/contribute)
+* [Contribute](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/.github/CONTRIBUTING.md)

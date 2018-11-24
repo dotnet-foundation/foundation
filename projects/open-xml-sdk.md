@@ -6,7 +6,7 @@ The [Open XML SDK](https://github.com/officedev/open-xml-sdk) provides .NET deve
 
 * [Project Info Site](https://github.com/officedev/open-xml-sdk)
 * [Project Code Site](https://github.com/officedev/open-xml-sdk)
-* Project License Type: [Apache License 2.0](https://github.com/OfficeDev/Open-XML-SDK/blob/master/LICENSE.txt)
+* Project License Type: [Apache License 2.0](https://github.com/OfficeDev/Open-XML-SDK/blob/master/LICENSE)
 * Project Main Contacts: [Eric White](https://github.com/EricWhiteDev), [Chris Rae](https://github.com/pugwonk)
 
 ## Quicklinks

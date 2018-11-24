@@ -9,7 +9,7 @@ These libraries match the functionality available for the Windows Store profiles
 
 * [Project Info Site](https://github.com/dotnet/wcf)
 * [Project Code Site](https://github.com/dotnet/wcf)
-* Project License Type: [MIT](https://github.com/dotnet/wcf/blob/master/LICENSE)
+* Project License Type: [MIT](https://github.com/dotnet/wcf/blob/master/LICENSE.TXT)
 * Project Main Contact: [Ron Cain](https://github.com/roncain)
 
 ## Quicklinks

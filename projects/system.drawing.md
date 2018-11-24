@@ -9,6 +9,6 @@
 
 ## Quicklinks
 
-* [Contribute](https://github.com/mono/mono/blob/master/CONTRIBUTING.md)
+* [Contribute](https://github.com/mono/mono/blob/master/.github/CONTRIBUTING.md)
 * [Documentation](http://docs.go-mono.com/?link=N%3aSystem.Drawing)
-* [Discussions](http://go-mono.com/forums/)
+* [Discussions](https://www.mono-project.com/community/help/chat/)
