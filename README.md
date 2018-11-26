@@ -117,6 +117,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [IdentityManager](https://github.com/IdentityManager/IdentityManager2)
 
+**Telerik**
+
+- [Telerik UI for UWP](https://github.com/telerik/UI-For-UWP/)
+
 **Umbraco**
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
