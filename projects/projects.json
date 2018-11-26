@@ -2,6 +2,8 @@
 "name" : ".NET Foundation Projects",
 "projects":
 [
+{"name":"telerik-ui-for-uwp.md",
+"contributor": "Telerik"},
 {"name":"asp.net-signalr.md",
 "contributor": "Microsoft"},
 {"name":"aspnet-4.md",
@@ -117,7 +119,10 @@
 ],
 "contributors":
 [
-{"name": "Microsoft",
+{"name": "Telerik",
+ "logo": "https://msdnshared.blob.core.windows.net/media/2018/01/TelerikLogo-300x167.png",
+ "web" : "http://www.telerik.com"},
+  {"name": "Microsoft",
  "logo": "https://avatars0.githubusercontent.com/u/6154722?s=200&v=4",
  "web" : "http://www.microsoft.com"},
  {"name": "Pivotal Software, Inc.",
