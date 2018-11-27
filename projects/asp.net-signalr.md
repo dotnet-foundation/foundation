@@ -9,7 +9,7 @@ SignalR will use WebSockets under the covers when it's available, and gracefully
 ## Project Details
 *  [Project Info Site](http://signalr.net/)
 *  [Project Code Site](https://github.com/SignalR/SignalR)
-*  Project License Type: [Apache License 2.0](https://github.com/SignalR/SignalR/blob/master/LICENSE.md)
+*  Project License Type: [Apache License 2.0](https://github.com/SignalR/SignalR/blob/master/LICENSE.txt)
 * Project Main Contact: [Damian Edwards](https://github.com/DamianEdwards)
 
 ## Quicklinks
