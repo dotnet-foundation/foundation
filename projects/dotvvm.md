@@ -4,7 +4,7 @@
 
 It simplifies building of **line of business web apps** and ships with many built-in controls like [GridView](https://www.dotvvm.com/docs/controls/builtin/GridView/latest), [FileUpload](https://www.dotvvm.com/docs/controls/builtin/FileUpload/latest), [Validator](https://www.dotvvm.com/docs/controls/builtin/Validator/latest) and more. 
 
-The easiest way to start with DotVVM is to download **[DotVVM for Visual Studio](https://www.dotvvm.com/landing/dotvvm-for-visual-studio-extension)** and do **File > New > Project**.
+The easiest way to start with DotVVM is to download **[DotVVM for Visual Studio](https://www.dotvvm.com/products/dotvvm-for-visual-studio-extension)** and do **File > New > Project**.
 
 * Free extension for [Visual Studio 2017](https://marketplace.visualstudio.com/items?itemName=TomasHerceg.DotVVMforVisualStudio-17892)
 * Free extension for [Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=TomasHerceg.DotVVM-VSExtension2019)
