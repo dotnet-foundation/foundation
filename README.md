@@ -83,6 +83,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio/)
 - [WorldWideTelescope](http://github.com/WorldWideTelescope)
 
+**Newtonsoft**
+
+- [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
+- [Newtonsoft.Json.Bson](https://github.com/JamesNK/Newtonsoft.Json.Bson)
+
 **Mono Project**
 
 - [System.Drawing](https://github.com/mono/mono/tree/master/mcs/class/System.Drawing)
