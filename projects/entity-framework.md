@@ -23,5 +23,5 @@ Entity Framework is the recommend data access technology for new applications in
 * [Blog](https://blogs.msdn.microsoft.com/dotnet/tag/entity-framework)
 
 ### Entity Framework Documentation:
-* (https://docs.microsoft.com/en-us/ef)
+* https://docs.microsoft.com/en-us/ef
 
