@@ -4,7 +4,7 @@ Entity Framework is the recommend data access technology for new applications in
 
 ### Entity Framework has two versions: 
 * Entity Framework 6, for .NET Full Framework (Windows)
-* Entity Framework Core, for .NET Core. Both versions are open source.
+* Entity Framework Core, for .NET Core
 
 [Entity Framework 6](https://github.com/aspnet/EntityFramework6) is the legacy Entity Framework for .NET Full Framework, that runs only under Windows Systems.
 
