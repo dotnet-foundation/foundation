@@ -1,8 +1,10 @@
 # Entity Framework
 
-[Entity Framework] is the recommend data access technology for new applications in .NET. It is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write.
+Entity Framework is the recommend data access technology for new applications in .NET. It is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write.
 
-Entity Framework has two versions: Entity Framework 6, for .NET Full Framework (Windows) and Entity Framework Core, for .NET Core. Both versions are open source.
+### Entity Framework has two versions: 
+* Entity Framework 6, for .NET Full Framework (Windows)
+* Entity Framework Core, for .NET Core. Both versions are open source.
 
 [Entity Framework 6](https://github.com/aspnet/EntityFramework6) is the legacy Entity Framework for .NET Full Framework, that runs only under Windows Systems.
 
