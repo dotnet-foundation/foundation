@@ -4,7 +4,7 @@
 
 DNN® ( formerly DotNetNuke® ) is the leading open source web content management platform (CMS) in the Microsoft ecosystem. The product is used to build professional looking and easy-to-use commercial websites, social intranets, community portals, or partner extranets. Containing dynamic content of all types, DNN sites are easy to deploy and update. The DNN Platform has been downloaded more than 8 million times and powers more than 750,000 websites globally. A community of more than 1 million members forms a powerful support network. 
 
-Thousands of free and commercial extensions, apps and skins are available at the [DNN Store](http://store.dnnsoftware.com/) that make extending a DNN site fast and affordable.
+Thousands of free and commercial extensions, apps and skins are available at the [DNN Store](https://store.dnnsoftware.com/) that make extending a DNN site fast and affordable.
 
 In addition to robust content management, the free, open source DNN Platform includes the following built-in features:
 
@@ -22,7 +22,7 @@ In addition to robust content management, the free, open source DNN Platform inc
 
 ## Project Details
 
-* [Project Info Site](http://www.dnnsoftware.com/community)
+* [Project Info Site](https://www.dnnsoftware.com/community)
 * Project Code Repos:
   * [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform)
   * [Dnn.EditBar](https://github.com/dnnsoftware/Dnn.EditBar)
@@ -32,14 +32,14 @@ In addition to robust content management, the free, open source DNN Platform inc
 
 ## Quick Links
 
-* [Contribute](http://www.dnnsoftware.com/wiki/page/github)
-* [DNN Digest](http://www.dnnsoftware.com/community/participate/subscribe-to-dnn-digest)
+* [Contribute](https://www.dnnsoftware.com/wiki/page/github)
+* [DNN Digest](https://www.dnnsoftware.com/community/participate/subscribe-to-dnn-digest)
 * [Questions & Answers](http://answers.dnnsoftware.com/)
-* [Showcase](http://www.dnnsoftware.com/community/participate/community-showcase)
+* [Showcase](https://www.dnnsoftware.com/community/participate/community-showcase)
 * [Discussion Forums](http://forums.dnnsoftware.com/)
-* [Video Library](http://www.dnnsoftware.com/videos)
-* [News](http://www.dnnsoftware.com/About/In-The-News/Press-Releases)
-* [Community Blogs](http://www.dnnsoftware.com/community-blog)
-* [DNN on Facebook](http://www.facebook.com/DNNsoftware)
-* [DNN on Twitter](http://www.Twitter.com/DNN)
-* [DNN Store](http://store.dnnsoftware.com/)
+* [Video Library](https://www.dnnsoftware.com/videos)
+* [News](https://www.dnnsoftware.com/About/In-The-News/Press-Releases)
+* [Community Blogs](https://www.dnnsoftware.com/community-blog)
+* [DNN on Facebook](https://www.facebook.com/DNNsoftware)
+* [DNN on Twitter](https://www.Twitter.com/DNN)
+* [DNN Store](https://store.dnnsoftware.com/)

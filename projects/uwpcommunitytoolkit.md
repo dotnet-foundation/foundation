@@ -5,7 +5,7 @@ The [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit) is
 ## Project Details
 
 * [Source](https://github.com/Microsoft/UWPCommunityToolkit)
-* [Sample App](http://aka.ms/uwptoolkitapp)
+* [Sample App](https://aka.ms/uwptoolkitapp)
 * [Getting Started](http://uwpcommunitytoolkit.readthedocs.io/en/master/Getting-Started/)
 * License: [MIT](https://github.com/Microsoft/UWPCommunityToolkit/blob/dev/license.md)
 * Project Leads: [David Catuhe aka Deltakosh](https://github.com/deltakosh)

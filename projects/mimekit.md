@@ -13,4 +13,4 @@
 * [Contribute](https://github.com/jstedfast/MimeKit#contributing) 
 * [Documentation](http://www.mimekit.net/docs)
 * [Discussions](https://github.com/jstedfast/MimeKit/issues)
-* [Blog](http://jeffreystedfast.blogspot.com/search/label/mimekit)
+* [Blog](https://jeffreystedfast.blogspot.com/search/label/mimekit)

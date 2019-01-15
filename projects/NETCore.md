@@ -15,8 +15,8 @@
 
 ## Quicklinks
 * [Contribute](https://github.com/dotnet/corefx/blob/master/CONTRIBUTING.md)
-* [Discussions](http://forums.dotnetfoundation.org/)
+* [Discussions](https://forums.dotnetfoundation.org/)
 * [Samples](https://github.com/Microsoft/dotnetsamples)
-* [Blog](http://blogs.msdn.microsoft.com/dotnet/)
+* [Blog](https://blogs.msdn.microsoft.com/dotnet/)
 * Twitter: [@DotNet](https://twitter.com/dotnet)
-* [Documentation](http://docs.microsoft.com/dotnet)
+* [Documentation](https://docs.microsoft.com/dotnet)

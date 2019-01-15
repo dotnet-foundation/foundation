@@ -9,7 +9,7 @@ Seamlessly integrate installation package creation into your development process
 * [Project Info Site](https://wixtoolset.org/)
 * [Project Code Site](https://github.com/wixtoolset)
 * Project License Type: [MS-RL](http://wixtoolset.org/about/license/)
-* Project Main Contacts: [Rob Mensching](http://robmensching.com/) and [Bob Arnson](http://joyofsetup.com/)
+* Project Main Contacts: [Rob Mensching](http://robmensching.com/) and [Bob Arnson](https://joyofsetup.com/)
 
 ## Quicklinks
 

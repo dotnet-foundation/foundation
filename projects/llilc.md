@@ -12,4 +12,4 @@ LLILC (pronounced 'lilac') is an **LL**VM based MS**IL C**ompiler. The goal of t
 ## Quicklinks
 * [Wiki](https://github.com/dotnet/llilc/wiki)
 * [Contribute](https://github.com/dotnet/llilc/wiki/Areas-To-Contribute)
-* [Discussions](http://forums.dotnetfoundation.org/) 
+* [Discussions](https://forums.dotnetfoundation.org/) 

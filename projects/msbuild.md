@@ -13,6 +13,6 @@ The Microsoft Build Engine, also known as [MSBuild](https://github.com/microsoft
 
 * [Documentation Wiki](https://github.com/microsoft/msbuild/wiki)
 * [MSDN Documentation](https://msdn.microsoft.com/en-us/library/dd393574.aspx) 
-* [Discussions](http://forums.dotnetfoundation.org/)
+* [Discussions](https://forums.dotnetfoundation.org/)
 * [Issues](https://github.com/microsoft/msbuild/issues)
 * Contact the team: [msbuild@microsoft.com](mailto:msbuild@microsoft.com)
