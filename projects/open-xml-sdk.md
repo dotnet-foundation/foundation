@@ -12,5 +12,5 @@ The [Open XML SDK](https://github.com/officedev/open-xml-sdk) provides .NET deve
 ## Quicklinks
 
 * [Documentation](https://github.com/OfficeDev/office-content) 
-* [How to build and use the SDK](http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2014/06/25/the-open-xml-sdk-is-now-open-source.aspx) 
-* [Discussions](http://openxmldeveloper.org)
+* [How to build and use the SDK](https://www.ericwhite.com/blog/the-open-xml-sdk-is-now-open-source/) 
+* [Discussions](https://www.ericwhite.com/blog/forums/forum/open-xml-sdk/)
