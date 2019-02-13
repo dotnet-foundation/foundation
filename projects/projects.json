@@ -115,7 +115,11 @@
 {"name":"identityserver.md",
 "contributor": "IdentityServer"},
 {"name":"dnn-platform.md",
-"contributor": "DNN Corp"}
+"contributor": "DNN Corp"},
+{"name":"winforms.md",
+"contributor": "Microsoft"},
+{"name":"wpf.md",
+"contributor": "Microsoft"}
 ],
 "contributors":
 [
