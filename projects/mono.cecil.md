@@ -12,4 +12,4 @@
 ### Quick Links
 
 * [Documentation](https://github.com/jbevain/cecil/wiki)
-* [Discussion](http://groups.google.com/group/mono-cecil)
+* [Discussion](https://groups.google.com/group/mono-cecil)

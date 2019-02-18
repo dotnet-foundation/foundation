@@ -4,14 +4,14 @@ The purpose of the [MVVM Light Toolkit](http://mvvmlight.net/) is to accelerate 
 
 ## Project Details
 * [Project Info Site](http://mvvmlight.net)
-* [Project Code Site](http://mvvmlight.codeplex.com/SourceControl/latest) 
-* Project License Type: [MIT](http://mvvmlight.codeplex.com/license)
-* Project Main Contact: [Laurent Bugnion](http://www.codeplex.com/site/users/view/lbugnion) 
+* [Project Code Site](https://mvvmlight.codeplex.com/SourceControl/latest) 
+* Project License Type: [MIT](https://mvvmlight.codeplex.com/license)
+* Project Main Contact: [Laurent Bugnion](https://www.codeplex.com/site/users/view/lbugnion) 
 
 ## Quicklinks
 
-* [Documentation](http://mvvmlight.codeplex.com/documentation) 
-* [Discussions](http://mvvmlight.codeplex.com/discussions) 
+* [Documentation](https://mvvmlight.codeplex.com/documentation) 
+* [Discussions](https://mvvmlight.codeplex.com/discussions) 
 * [Blog](http://blog.galasoft.ch/posts/category/mvvm/)
 * Twitter: @LBugnion
 

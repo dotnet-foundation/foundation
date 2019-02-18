@@ -81,7 +81,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
 - [WCF](https://github.com/dotnet/wcf)
 - [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio/)
-- [WorldWideTelescope](http://github.com/WorldWideTelescope)
+- [WorldWideTelescope](https://github.com/WorldWideTelescope)
 
 **Newtonsoft**
 
@@ -148,5 +148,5 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 ## .NET Foundation Community Resources
 
 - [.NET Foundation Website](https://dotnetfoundation.org)
-- [.NET Foundation Forums](http://forums.dotnetfoundation.org/)
+- [.NET Foundation Forums](https://forums.dotnetfoundation.org/)
 - [.NET Foundation Blog](https://dotnetfoundation.org/blog)

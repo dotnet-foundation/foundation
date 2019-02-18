@@ -13,4 +13,4 @@
 * [Contribute](https://github.com/jstedfast/MailKit#contributing) 
 * [Documentation](http://www.mimekit.net/docs)
 * [Discussions](https://github.com/jstedfast/MailKit/issues)
-* [Blog](http://jeffreystedfast.blogspot.com/search/label/mailkit)
+* [Blog](https://jeffreystedfast.blogspot.com/search/label/mailkit)

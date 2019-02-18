@@ -17,5 +17,5 @@ The [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn) provid
 
 Blogs:
  
-* [VB](http://blogs.msdn.com/b/vbteam/archive/tags/roslyn/) 
-* [C#](http://blogs.msdn.com/b/csharpfaq/archive/tags/roslyn/)
+* [VB](https://blogs.msdn.com/b/vbteam/archive/tags/roslyn/) 
+* [C#](https://blogs.msdn.com/b/csharpfaq/archive/tags/roslyn/)

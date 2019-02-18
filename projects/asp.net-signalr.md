@@ -15,7 +15,7 @@ SignalR will use WebSockets under the covers when it's available, and gracefully
 ## Quicklinks
 
 * [Contribute](https://github.com/SignalR/SignalR/blob/master/CONTRIBUTING.md)
-* [Documentation](http://www.asp.net/signalr)
+* [Documentation](https://www.asp.net/signalr)
 * [JabbR](http://jabbr.net/#/rooms/signalr) 
-* [Forum](http://forums.asp.net/1254.aspx/1?ASP+NET+SignalR)
-* [Blog](http://blogs.msdn.com/b/webdev/)
+* [Forum](https://forums.asp.net/1254.aspx/1?ASP+NET+SignalR)
+* [Blog](https://blogs.msdn.com/b/webdev/)

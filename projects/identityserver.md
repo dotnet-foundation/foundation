@@ -22,8 +22,8 @@ IdentityServer is [certified](https://openid.net/certification/) by the OpenID F
 
 * [Documentation](https://identityserver4.readthedocs.io)
 * [Discussions](https://github.com/identityserver/IdentityServer4/issues)
-* [Dominick's blog](http://leastprivilege.com/)
-* [Brock's blog](http://brockallen.com/)
+* [Dominick's blog](https://leastprivilege.com/)
+* [Brock's blog](https://brockallen.com/)
 * Twitter: [@leastprivilege](https://twitter.com/leastprivilege) & 
            [@brocklallen](https://twitter.com/brocklallen)
 

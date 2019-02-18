@@ -21,8 +21,8 @@ helpers for token management
 
 * [Documentation](https://identitymodel.readthedocs.io)
 * [Discussions](https://github.com/IdentityModel/IdentityModel2/issues)
-* [Dominick's blog](http://leastprivilege.com/)
-* [Brock's blog](http://brockallen.com/)
+* [Dominick's blog](https://leastprivilege.com/)
+* [Brock's blog](https://brockallen.com/)
 * Twitter: [@leastprivilege](https://twitter.com/leastprivilege) & 
            [@brocklallen](https://twitter.com/brocklallen)
 

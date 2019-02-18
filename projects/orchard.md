@@ -1,6 +1,6 @@
 # Orchard CMS 
 
-[Orchard](http://www.orchardproject.net/) is a free, open source,
+[Orchard](https://www.orchardproject.net/) is a free, open source,
 community-focused Content Management System built on the ASP.NET MVC
 platform. Orchard is built on a modern architecture that puts
 extensibility up-front, as its number one concern. All components in
@@ -13,7 +13,7 @@ presentation that you need for your content.
 
 # Project Details
 
-* [Project Info Site](http://www.orchardproject.net/)
+* [Project Info Site](https://www.orchardproject.net/)
 * [Project Code Site](https://github.com/OrchardCMS/Orchard)
 * Project License Type: [New BSD License(BSD)](https://raw.githubusercontent.com/OrchardCMS/Orchard/master/LICENSE.txt)
 * Project Main Contact: [Steering Committee](http://orchardproject.net/about-us)

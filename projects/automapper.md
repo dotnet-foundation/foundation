@@ -6,7 +6,7 @@ With straightforward conventions, AutoMapper removes hundreds or thousands of li
 
 ## Project Details
 
-* [Website](http://automapper.org)
+* [Website](https://automapper.org)
 * [Source](https://github.com/automapper/automapper)
 * License: [MIT](https://github.com/AutoMapper/AutoMapper/blob/master/LICENSE.txt)
 * [NuGet](https://www.nuget.org/packages/AutoMapper)

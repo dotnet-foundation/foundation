@@ -7,7 +7,7 @@ awareness of it in your community.
 The .NET Foundation was created to foster an open, innovative and inclusive
 community around open source .NET. To clarify expected behaviour in our
 communities we have adopted the [Contributor Covenant](https://dotnetfoundation.org/code-of-conduct).
-This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/)
+This code of conduct has been adopted by [many other open source communities](https://contributor-covenant.org/adopters/)
 and we feel it expresses our values well. 
 
 For a full copy of the [code of conduct](https://dotnetfoundation.org/code-of-conduct),
@@ -26,7 +26,7 @@ they should email conduct@dotnetfoundation.org with details.
 
 The .NET Foundation recommend that you also display a link to the code of conduct
 in your README.md file and in your CONTRIBUTING.md file if you have one.  You can
-see an example of this in the [Open Live Writer](http://github.com/openlivewriter/openlivewriter)
+see an example of this in the [Open Live Writer](https://github.com/openlivewriter/openlivewriter)
 project
 
 See the [README.md guidance](readme-guide.md) for the suggested MarkDown to use
@@ -52,7 +52,7 @@ from others with relevant expertise or experience but will maintain the
 confidentiality of the person reporting.
 
 #### Does anyone else do this?
-This code of conduct has been adopted by [many other open source communities](http://contributor-covenant.org/adopters/)
+This code of conduct has been adopted by [many other open source communities](https://contributor-covenant.org/adopters/)
 including Mono, Rails, AngularJS, Eclipse, Swift and other projects in the .NET Foundation
 
 #### What should I do when a thread goes toxic
