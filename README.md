@@ -117,6 +117,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **ReactiveUI**
 
 - [ReactiveUI](https://github.com/reactiveui/ReactiveUI)
+- [Splat](https://github.com/reactiveui/Splat)
+- [Akavache](https://github.com/reactiveui/Akavache)
+- [Refit](https://github.com/reactiveui/refit)
+- [Punchclock](https://github.com/reactiveui/punchclock)
+- [Fusillade](https://github.com/reactiveui/Fusillade)
 
 **Rock Solid Knowledge**
 
