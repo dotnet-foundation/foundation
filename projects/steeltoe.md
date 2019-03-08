@@ -12,9 +12,10 @@ Steeltoe was contributed to the .NET Foundation by [Pivotal Software, Inc.](http
 * Project Leads: 
   * [Dave Tillman](https://github.com/dtillman)
   * [Tim Hess](https://github.com/TimHess)
-* Project Maintainers:
+* Project Contributors:
   * [Jason Konicki](https://github.com/jkonicki)
   * [Chris Cheetham](https://github.com/ccheetham) 
+  * [Hananiel Sarella](https://github.com/hananiel)
 
 ## Quicklinks
 
