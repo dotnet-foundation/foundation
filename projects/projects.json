@@ -151,7 +151,7 @@
  "logo": "https://avatars2.githubusercontent.com/u/17447889?v=3&s=200",
  "web" : "https://protobuild.org/"},
 {"name": "Umbraco",
- "logo": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xap1/v/t1.0-1/p160x160/971596_519168901464439_566592989_n.png?oh=ce61e5b4cbd60c0d99c4164cbb05a434&oe=54F091C9&__gda__=1424472439_c9f76213a915bc2af88246f464f29e8b",
+ "logo": "https://raw.githubusercontent.com/umbraco/OurUmbraco/10a5e215c71c66f33936fb0ea720dbca4446cc4e/OurUmbraco.Site/Assets/images/logo.svg",
  "web" : "http://umbraco.com/"},
 {"name": "WiX Toolset",
  "logo": "https://raw.githubusercontent.com/dotnet/swag/master/wix/wix-white.png",
