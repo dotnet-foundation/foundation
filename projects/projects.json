@@ -111,7 +111,7 @@
 {"name":"benchmarkdotnet.md",
 "contributor": "BenchmarkDotNet"},
 {"name":"humanizer.md",
-  "contributor": "Humanizer"},  
+"contributor": "Humanizer"},  
 {"name":"identityserver.md",
 "contributor": "IdentityServer"},
 {"name":"dnn-platform.md",
@@ -119,7 +119,9 @@
 {"name":"winforms.md",
 "contributor": "Microsoft"},
 {"name":"wpf.md",
-"contributor": "Microsoft"}
+"contributor": "Microsoft"},
+{"name":"nunit.md",
+"contributor": "NUnit"}
 ],
 "contributors":
 [
@@ -203,5 +205,8 @@
   "web": "https://xunit.github.io/"},
  {"name": "DNN Corp",
   "logo": "https://avatars2.githubusercontent.com/u/5099054?s=200&v=4",
-  "web": "http://www.dnnsoftware.com/"}
+  "web": "http://www.dnnsoftware.com/"},
+ {"name": "DNN Corp",
+  "logo": "https://avatars0.githubusercontent.com/u/2678858?s=200&v=4",
+  "web": "http://nunit.org/"}
 ]}
