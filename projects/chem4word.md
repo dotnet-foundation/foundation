@@ -12,11 +12,12 @@ other users or applications.
 * [Website](https://www.chem4word.co.uk/)
 * [Version 2 Source Code](https://github.com/Chem4Word/Version2)
 * [Version 3 Source Code](https://github.com/Chem4Word/Version3)
+* [Version 3.1 Source Code](https://github.com/Chem4Word/Version3-1)
 * Project License Type: [Apache 2.0](https://github.com/Chem4Word/Version3/blob/master/Licence.md)
 * Project Main Contacts: [Clyde Davies](https://github.com/deadlyvices), [Mike Williams](https://github.com/MikeWilliams-UK) 
 
 ## Quicklinks
 
 * [Blog](https://www.chem4word.co.uk/category/news/)
-* [Documentation](https://chem4word.codeplex.com/documentation)
+* [Documentation](https://www.chem4word.co.uk/)
 * [Contribute](https://github.com/Chem4Word/Version3)
