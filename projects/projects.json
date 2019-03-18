@@ -121,7 +121,9 @@
 {"name":"wpf.md",
 "contributor": "Microsoft"},
 {"name":"nunit.md",
-"contributor": "NUnit"}
+"contributor": "NUnit"},
+{"name":"jsondotnet.md",
+"contributor": "Newtonsoft"}
 ],
 "contributors":
 [
@@ -208,5 +210,8 @@
   "web": "http://www.dnnsoftware.com/"},
  {"name": "NUnit",
   "logo": "https://avatars0.githubusercontent.com/u/2678858?s=200&v=4",
-  "web": "http://nunit.org/"}
+  "web": "http://nunit.org/"},
+ {"name": "Newtonsoft",
+  "logo": "https://www.newtonsoft.com/content/images/twitterlogo.png",
+  "web": "https://www.newtonsoft.com/json"}
 ]}
