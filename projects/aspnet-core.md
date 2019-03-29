@@ -6,12 +6,13 @@
 
 * [Project Info Site](https://www.asp.net/core)
 * [Project Code Site](https://github.com/aspnet/home)
+* [Project Docs Repository](https://github.com/aspnet/Docs)
 * Project License Type: [Apache License 2.0 (Apache)](https://github.com/aspnet/Home/blob/master/LICENSE.txt)
 * Project Main Contact: [Daniel Roth](https://github.com/danroth27)
 
 ### Quicklinks
 
 * [Contribute](https://github.com/aspnet/Home/blob/master/CONTRIBUTING.md)
-* [Documentation](https://github.com/aspnet/Home/wiki)
+* [Documentation](https://docs.microsoft.com/aspnet/core)
 * [Discussions](https://github.com/aspnet/Home/issues)
 * [Blog](https://blogs.msdn.com/b/webdev/)
