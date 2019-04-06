@@ -29,8 +29,9 @@ One big advantage of having the chemistry embedded as machine readable XML is th
 * Project Main Contacts: [Clyde Davies](https://github.com/deadlyvices), [Mike Williams](https://github.com/MikeWilliams-UK) 
 
 ## Other information
-Our installer is built using the WiX Toolset
-We use xUnit.net for our Unit Testing
+Our installer is built using the WiX Toolset.
+
+We use xUnit.net for our Unit Testing.
 
 ## Quicklinks
 * [Blog](https://www.chem4word.co.uk/category/news/)
