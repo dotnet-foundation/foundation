@@ -14,7 +14,7 @@ The Chem4Word add-in allows the user to interact with chemistry in a document as
 
 ## How the Chem4Word Add-In works
 The Chem4Word add-in stores the chemical structures as Chemical Mark-up Language (CML) inside Word documents as Custom XML Parts.
-Each structure can be visualised inside a Word document with a Word Custom Control containing either a 2D format as an image constructed using Drawing ML or a 1D format using one of its textual descriptors as text.
+Each structure can be visualised inside a Word document with a Word Custom Control containing either a 2D format as an image constructed as DrawingML (using the Open XML SDK 2.5 for Office) or a 1D format using one of its textual descriptors as text.
 When you edit a chemistry structure and save the results, all of its linked visualisations are also updated.
 A web service is used to generate a code known as an InChiKey, this uniquely identifies the structure, the InChiKey is stored as an additional textual descriptor element inside the CML.
 
@@ -27,6 +27,10 @@ One big advantage of having the chemistry embedded as machine readable XML is th
 * [Version 3.1 Source Code](https://github.com/Chem4Word/Version3-1)
 * Project License Type: [Apache 2.0](https://github.com/Chem4Word/Version3/blob/master/Licence.md)
 * Project Main Contacts: [Clyde Davies](https://github.com/deadlyvices), [Mike Williams](https://github.com/MikeWilliams-UK) 
+
+## Other information
+Our installer is built using the WiX Toolset
+We use xUnit.net for our Unit Testing
 
 ## Quicklinks
 * [Blog](https://www.chem4word.co.uk/category/news/)
