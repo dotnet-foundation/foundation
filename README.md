@@ -10,6 +10,11 @@ Please visit [dotnetfoundation.org](https://dotnetfoundation.org) for more infor
 
 There are many projects under the stewardship of the .NET Foundation. The [full list of projects](https://dotnetfoundation.org/projects?type=project) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
+**AngleSharp**
+
+- [AngleSharp](https://github.com/AngleSharp/AngleSharp)
+- [(and more)](https://github.com/AngleSharp)
+
 **App vNext**
 
 - [Polly](https://github.com/App-vNext/Polly)
