@@ -123,7 +123,9 @@
 {"name":"nunit.md",
 "contributor": "NUnit"},
 {"name":"jsondotnet.md",
-"contributor": "Newtonsoft"}
+"contributor": "Newtonsoft"},
+{"name":"anglesharp.md",
+"contributor": "AngleSharp"}
 ],
 "contributors":
 [
@@ -213,5 +215,8 @@
   "web": "http://nunit.org/"},
  {"name": "Newtonsoft",
   "logo": "https://www.newtonsoft.com/content/images/twitterlogo.png",
-  "web": "https://www.newtonsoft.com/json"}
+  "web": "https://www.newtonsoft.com/json"},
+  {"name": "AngleSharp",
+   "logo": "https://anglesharp.github.io/images/logo.png",
+   "web": "https://anglesharp.github.io/"}
 ]}
