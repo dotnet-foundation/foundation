@@ -125,7 +125,9 @@
 {"name":"jsondotnet.md",
 "contributor": "Newtonsoft"},
 {"name":"anglesharp.md",
-"contributor": "AngleSharp"}
+"contributor": "AngleSharp"},
+{"name":"dotvvm.md",
+"contributor": "DotVVM"}
 ],
 "contributors":
 [
@@ -216,7 +218,10 @@
  {"name": "Newtonsoft",
   "logo": "https://www.newtonsoft.com/content/images/twitterlogo.png",
   "web": "https://www.newtonsoft.com/json"},
-  {"name": "AngleSharp",
+ {"name": "AngleSharp",
    "logo": "https://anglesharp.github.io/images/logo.png",
-   "web": "https://anglesharp.github.io/"}
+   "web": "https://anglesharp.github.io/"},
+ {"name": "DotVVM",
+   "logo": "https://www.dotvvm.com/Content/img/logos/dotvvm_logo_square.png",
+   "web": "https://www.dotvvm.com/"}
 ]}
