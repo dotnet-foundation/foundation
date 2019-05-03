@@ -123,7 +123,9 @@
 {"name":"nunit.md",
 "contributor": "NUnit"},
 {"name":"jsondotnet.md",
-"contributor": "Newtonsoft"}
+"contributor": "Newtonsoft"},
+{"name":"dotvvm.md",
+"contributor": "DotVVM"}
 ],
 "contributors":
 [
@@ -213,5 +215,8 @@
   "web": "http://nunit.org/"},
  {"name": "Newtonsoft",
   "logo": "https://www.newtonsoft.com/content/images/twitterlogo.png",
-  "web": "https://www.newtonsoft.com/json"}
+  "web": "https://www.newtonsoft.com/json"},
+ {"name": "DotVVM",
+   "logo": "https://www.dotvvm.com/Content/img/logos/dotvvm_logo_square.png",
+   "web": "https://www.dotvvm.com/"}
 ]}

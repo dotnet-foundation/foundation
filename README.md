@@ -54,6 +54,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
   - [Edit Bar](https://github.com/dnnsoftware/Dnn.EditBar)
   - [React Common Library](https://github.com/dnnsoftware/Dnn.React.Common)
 
+**DotVVM**
+- [DotVVM](https://github.com/riganti/dotvvm)
+- [DotVVM Docs](https://github.com/riganti/dotvvm-docs)
+- [DotVVM Contrib](https://github.com/riganti/dotvvm-contrib)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
