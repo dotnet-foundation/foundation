@@ -25,21 +25,19 @@ In addition to robust content management, the free, open source DNN Platform inc
 * [Project Info Site](https://www.dnnsoftware.com/community)
 * Project Code Repos:
   * [DNN Platform](https://github.com/dnnsoftware/Dnn.Platform)
-  * [Dnn.EditBar](https://github.com/dnnsoftware/Dnn.EditBar)
-  * [DNN Admin Experience Library](https://github.com/dnnsoftware/Dnn.AdminExperience.Library)
-  * [DNN Admin Experience Extensions](https://github.com/dnnsoftware/Dnn.AdminExperience.Extensions)
-  * [Dnn React Common](https://github.com/dnnsoftware/Dnn.React.Common)
+  * [DNN Admin Experience (PersonaBar)](https://github.com/dnnsoftware/Dnn.AdminExperience.Library)
 
 ## Quick Links
 
-* [Contribute](https://www.dnnsoftware.com/wiki/page/github)
-* [DNN Digest](https://www.dnnsoftware.com/community/participate/subscribe-to-dnn-digest)
+* [Contribute](https://github.com/dnnsoftware/Dnn.Platform/blob/development/CONTRIBUTING.md)
+* [Community Blogs](https://www.dnnsoftware.com/community-blog)
+* [DNN on NuGet](https://www.nuget.org/profiles/dotnetnuke)
+* [DNN Digest (Monthly Newsletter Signup)](https://www.dnnsoftware.com/community/participate/subscribe-to-dnn-digest)
 * [Questions & Answers](http://answers.dnnsoftware.com/)
 * [Showcase](https://www.dnnsoftware.com/community/participate/community-showcase)
 * [Discussion Forums](http://forums.dnnsoftware.com/)
 * [Video Library](https://www.dnnsoftware.com/videos)
 * [News](https://www.dnnsoftware.com/About/In-The-News/Press-Releases)
-* [Community Blogs](https://www.dnnsoftware.com/community-blog)
 * [DNN on Facebook](https://www.facebook.com/DNNsoftware)
 * [DNN on Twitter](https://www.Twitter.com/DNN)
 * [DNN Store](https://store.dnnsoftware.com/)
