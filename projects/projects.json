@@ -127,7 +127,9 @@
 {"name":"anglesharp.md",
 "contributor": "AngleSharp"},
 {"name":"dotvvm.md",
-"contributor": "DotVVM"}
+"contributor": "DotVVM"},
+{"name":"imagesharp.md",
+"contributor": "SixLabors"}
 ],
 "contributors":
 [
@@ -223,5 +225,8 @@
    "web": "https://anglesharp.github.io/"},
  {"name": "DotVVM",
    "logo": "https://www.dotvvm.com/Content/img/logos/dotvvm_logo_square.png",
-   "web": "https://www.dotvvm.com/"}
+   "web": "https://www.dotvvm.com/"},
+{"name": "SixLabors",
+  "logo": "https://raw.githubusercontent.com/SixLabors/Branding/master/icons/org/sixlabors.256.png",
+  "web": "https://sixlabors.com/"}
 ]}
