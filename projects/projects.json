@@ -129,7 +129,9 @@
 {"name":"dotvvm.md",
 "contributor": "DotVVM"},
 {"name":"imagesharp.md",
-"contributor": "SixLabors"}
+"contributor": "SixLabors"},
+{"name":"Akka.NET",
+"contributor":"Petabridge"}
 ],
 "contributors":
 [
@@ -226,7 +228,10 @@
  {"name": "DotVVM",
    "logo": "https://www.dotvvm.com/Content/img/logos/dotvvm_logo_square.png",
    "web": "https://www.dotvvm.com/"},
-{"name": "SixLabors",
-  "logo": "https://raw.githubusercontent.com/SixLabors/Branding/master/icons/org/sixlabors.256.png",
-  "web": "https://sixlabors.com/"}
+ {"name": "SixLabors",
+   "logo": "https://raw.githubusercontent.com/SixLabors/Branding/master/icons/org/sixlabors.256.png",
+   "web": "https://sixlabors.com/"},
+ {"name": "Petabridge",
+   "logo": "https://petabridge.com/images/logo.png",
+   "web": "https://petabridge.com"}
 ]}
