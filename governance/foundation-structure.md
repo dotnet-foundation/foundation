@@ -7,7 +7,7 @@ is done by the projects in the .NET Foundation, and they get a lot of control ov
 they want to operate. However the following groups help run the general business of the 
 .NET Foundation day-to-day as volunteers:
 
- - **[Board of Directors](https://dotnetfoundation.org/team)** - Made up of Member nominated individuals along with a director
+ - **[Board of Directors](https://dotnetfoundation.org/about#team)** - Made up of Member nominated individuals along with a director
    elected to represent the interests of the general .NET Community, the Board of Directors
    are responsible for the management and oversight of the business and affairs of the
    .NET Foundation. They have the final say about setting .NET Foundation by-laws and 
@@ -16,13 +16,13 @@ they want to operate. However the following groups help run the general business
    are described in the .NET Foundation 
    [Articles of Incorporation](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
    and [By-laws](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf)
- - **[Officers & Staff](https://dotnetfoundation.org/team)** - The .NET Foundation has a
+ - **[Officers & Staff](https://dotnetfoundation.org/about#team)** - The .NET Foundation has a
    number of officers to help run the affairs of the foundation including a President,
    Vice-President, Executive Director, Company Secretary and Treasurer. The responsibilities
    of the officers are details in the .NET Foundation 
    [Articles of Incorporation](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation%20Articles%20of%20Incorporation.pdf) 
    and [By-laws](https://dnfwebsitewusproduction.blob.core.windows.net/media/Default/Documents/NET%20Foundation-First-Amended-and-Restated-Bylaws-2015-03-25.pdf).
- - **[Advisory Council](https://dotnetfoundation.org/team)** - The advisory council advises the Board of Directors on matters
+ - **[Advisory Council](https://dotnetfoundation.org/about#team)** - The advisory council advises the Board of Directors on matters
    of governance related to the running of projects in the foundation and also helps
    provide input to the board on what the .NET Foundation should be focussing on to help
    the .NET open source community. The council are made up of 9 individuals drawn from across the
