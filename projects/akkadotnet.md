@@ -5,7 +5,7 @@
 ## Project Details
 * [Project Info Site](https://getakka.net/) 
 * [Project Code Site](https://github.com/akkadotnet/akka.net)
-* Project License Type: [Apache License 2.0](https://aspnetwebstack.codeplex.com/license)
+* Project License Type: [Apache License 2.0](https://github.com/akkadotnet/akka.net/blob/dev/LICENSE)
 * Project Main Contact: [Aaron Stannard](https://github.com/Aaronontheweb)
 
 ## Quicklinks
