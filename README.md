@@ -89,7 +89,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [MS Build](https://github.com/microsoft/msbuild)
 - [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
-- [Reactive Extensions for .NET](https://github.com/reactive-extensions/rx.net)
+- [Reactive Extensions for .NET](https://github.com/dotnet/reactive/)
 - [Source Link](https://github.com/dotnet/sourcelink)
 - [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
 - [WCF](https://github.com/dotnet/wcf)

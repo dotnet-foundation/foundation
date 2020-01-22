@@ -175,7 +175,7 @@
  "logo": "https://raw.githubusercontent.com/cake-build/graphics/master/png/cake-large.png",
  "web" : "http://cakebuild.net/"},
  {"name": "Reactive Extensions",
-  "logo": "https://raw.githubusercontent.com/Reactive-Extensions/Rx.NET/master/Rx.NET/Resources/Artwork/Logo_Color_300x300.png",
+  "logo": "https://raw.githubusercontent.com/dotnet/reactive/master/Rx.NET/Resources/Artwork/Logo_Color_300x300.png",
   "web" : "http://reactivex.io/"},
  {"name": "App vNext",
   "logo": "https://avatars1.githubusercontent.com/u/9165070?v=3&s=200",
