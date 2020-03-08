@@ -111,7 +111,7 @@
 {"name":"benchmarkdotnet.md",
 "contributor": "BenchmarkDotNet"},
 {"name":"humanizer.md",
-"contributor": "Humanizer"},  
+"contributor": "Humanizer"},
 {"name":"identityserver.md",
 "contributor": "IdentityServer"},
 {"name":"dnn-platform.md",
@@ -131,7 +131,9 @@
 {"name":"imagesharp.md",
 "contributor": "SixLabors"},
 {"name":"akkadotnet.md",
-"contributor":"Petabridge"}
+"contributor":"Petabridge"},
+{"name":"nerdbank-gitversioning.md",
+"contributor":"Andrew Arnott"}
 ],
 "contributors":
 [
@@ -194,10 +196,10 @@
   "web": "http://benchmarkdotnet.org/"},
  {"name": "Humanizer",
   "logo": "https://raw.githubusercontent.com/Humanizr/Humanizer/master/logo.png",
-  "web": "http://humanizr.net/"},  
+  "web": "http://humanizr.net/"},
  {"name": "IdentityServer",
   "logo": "https://identityserver.io/images/IDserver_logotransparent.png",
-  "web": "https://identityserver.io/"}, 
+  "web": "https://identityserver.io/"},
  {"name": "IdentityManager",
   "logo": "https://avatars0.githubusercontent.com/u/10657637?s=200&v=4",
   "web": "https://github.com/IdentityManager"},
@@ -233,5 +235,7 @@
    "web": "https://sixlabors.com/"},
  {"name": "Petabridge",
    "logo": "https://petabridge.com/images/logo.png",
-   "web": "https://petabridge.com"}
+   "web": "https://petabridge.com"},
+ {"name": "Andrew Arnott",
+   "web": "http://blog.nerdbank.net/"}
 ]}
