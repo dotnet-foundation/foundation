@@ -13,7 +13,7 @@ and other build scripts.
   [![NuGet package](https://img.shields.io/nuget/v/Nerdbank.GitVersioning.svg)](https://nuget.org/packages/Nerdbank.GitVersioning)
   [![NPM package](https://img.shields.io/npm/v/nerdbank-gitversioning.svg)](https://www.npmjs.com/package/nerdbank-gitversioning)
 * ⚖ License: [MIT](https://github.com/dotnet/Nerdbank.GitVersioning/tree/master/LICENSE)
-* Main contacts: [Andrew Arnott](https://github.com/aarnott)
+* Main contacts: [Andrew Arnott](https://keybase.io/aarnott)
 
 ## More info
 
