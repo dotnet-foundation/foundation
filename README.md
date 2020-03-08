@@ -16,6 +16,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Akka.NET](https://github.com/akkadotnet/akka.net)
 - [(and more)](https://github.com/akkadotnet)
 
+**Andrew Arnott**
+
+- [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning)
+
 **AngleSharp**
 
 - [AngleSharp](https://github.com/AngleSharp/AngleSharp)
