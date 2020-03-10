@@ -134,6 +134,8 @@
 "contributor":"Petabridge"},
 {"name":"nerdbank-gitversioning.md",
 "contributor":"Andrew Arnott"}
+{"name":"marten.md",
+"contributor":"Marten"}
 ],
 "contributors":
 [
@@ -237,5 +239,8 @@
    "logo": "https://petabridge.com/images/logo.png",
    "web": "https://petabridge.com"},
  {"name": "Andrew Arnott",
-   "web": "http://blog.nerdbank.net/"}
+   "web": "http://blog.nerdbank.net/"},
+ {"name": "Marten",
+  "logo": "https://martendb.io/content/images/emblem.png",
+  "web": "https://martendb.io/"},
 ]}
