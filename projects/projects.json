@@ -38,6 +38,8 @@
 "contributor": "IdentityManager"},
 {"name":"identitymodel.md",
 "contributor": "IdentityModel"},
+ {"name":"kerberos-net.md",
+"contributor": "Steve Syfuhs"},
 {"name":"llilc.md",
 "contributor": "Microsoft"},
 {"name":"mailkit.md",
@@ -237,5 +239,7 @@
    "logo": "https://petabridge.com/images/logo.png",
    "web": "https://petabridge.com"},
  {"name": "Andrew Arnott",
-   "web": "http://blog.nerdbank.net/"}
+   "web": "http://blog.nerdbank.net/"},
+  {"name": "Steve Syfuhs",
+   "web": "https://syfuhs.net/"}
 ]}
