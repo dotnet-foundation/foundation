@@ -38,6 +38,8 @@
 "contributor": "IdentityManager"},
 {"name":"identitymodel.md",
 "contributor": "IdentityModel"},
+ {"name":"kerberos-net.md",
+"contributor": "Steve Syfuhs"},
 {"name":"llilc.md",
 "contributor": "Microsoft"},
 {"name":"mailkit.md",
@@ -243,4 +245,6 @@
  {"name": "Marten",
   "logo": "https://martendb.io/content/images/emblem.png",
   "web": "https://martendb.io/"},
+  {"name": "Steve Syfuhs",
+   "web": "https://syfuhs.net/"}
 ]}

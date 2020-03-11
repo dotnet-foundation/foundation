@@ -82,6 +82,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Mono.Cecil](https://github.com/jbevain/cecil)
 
+**Kerberos.NET**
+
+- [Kerberos.NET](https://github.com/dotnet/Kerberos.NET)
+
 **Microsoft**
 
 - [.NET Core](https://dotnet.github.io/)
