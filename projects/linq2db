@@ -1,4 +1,4 @@
-# Cake
+# linq2db
 
 [linq2db](https://github.com/linq2db/linq2db) LINQ to DB is the fastest LINQ database access library offering a simple, light, fast, and type-safe layer between your POCO objects and your database.
 
