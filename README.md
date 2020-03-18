@@ -121,6 +121,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Nancy](https://github.com/NancyFx)
 
+**NuGet Trends**
+
+- [Source Code](https://github.com/NuGetTrends/nuget-trends)
+- [Browse NuGet Trends](https://nugettrends.com)
+
 **Orchard**
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
