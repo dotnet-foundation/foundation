@@ -6,8 +6,8 @@
 ## Project Details
 
 * [The website](https://nugettrends.com)
-* [Project Code Site](https://github.com/NuGetTrends/nuget-trends)
-* Project License Type: [MIT](https://github.com/NuGetTrends/nuget-trends/blob/master/LICENSE)
+* [Project Code Site](https://github.com/dotnet/nuget-trends)
+* Project License Type: [MIT](https://github.com/dotnet/nuget-trends/blob/master/LICENSE)
 * Project Main Contact(s): [Bruno Garcia](https://twitter.com/brungarc), [Joao Grassi](https://twitter.com/jotagrassi)
 
 ### Quicklinks

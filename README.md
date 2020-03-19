@@ -123,7 +123,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **NuGet Trends**
 
-- [Source Code](https://github.com/NuGetTrends/nuget-trends)
+- [Source Code](https://github.com/dotnet/nuget-trends)
 - [Browse NuGet Trends](https://nugettrends.com)
 
 **Orchard**
