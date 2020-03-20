@@ -139,7 +139,9 @@
 {"name":"nerdbank-gitversioning.md",
 "contributor":"Andrew Arnott"},
 {"name":"marten.md",
-"contributor":"Marten"}
+"contributor":"Marten"},
+{"name":"linq2db.md",
+"contributor":"linq2db"}
 ],
 "contributors":
 [
@@ -247,6 +249,8 @@
  {"name": "Marten",
   "logo": "https://martendb.io/content/images/emblem.png",
   "web": "https://martendb.io/"},
-  {"name": "Steve Syfuhs",
-   "web": "https://syfuhs.net/"}
+ {"name": "Steve Syfuhs",
+   "web": "https://syfuhs.net/"},
+ {"name": "linq2db",
+   "web": "https://github.com/linq2db/linq2db/"}
 ]}
