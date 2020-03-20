@@ -86,6 +86,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Kerberos.NET](https://github.com/dotnet/Kerberos.NET)
 
+**linq2db**
+
+- [linq2db](https://github.com/linq2db/linq2db)
+
 **Microsoft**
 
 - [.NET Core](https://dotnet.github.io/)
