@@ -3,7 +3,7 @@ Hello!  We are excited you are interested in bringing your project over to the .
 ## Your Project and the .NET Foundation
 Participation in the .NET Foundation exposes your project to the wider world of .NET developers and helps you to build a better community.  The following details the three main steps you and your project will complete joining the .NET Foundation
 
-The .NET Foundation has established a set of [eligibility criteria](https://github.com/dotnet-foundation/projects) that your project must meet
+The .NET Foundation has established a set of [eligibility criteria](https://github.com/dotnet-foundation/projects#eligibility-criteria) that your project must meet
 
 When you are ready to apply to join, [fill out a new project application](https://github.com/dotnet-foundation/projects/issues/new?assignees=&labels=project+application&template=application.md&title=)
 
