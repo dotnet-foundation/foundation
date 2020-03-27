@@ -78,6 +78,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Marten](https://github.com/JasperFx/marten)
 
+** Jeremy Skinner**
+
+- [FluentValidation](https://github.com/FluentValidation/FluentValidation)
+
 **Jb Evain**
 
 - [Mono.Cecil](https://github.com/jbevain/cecil)
