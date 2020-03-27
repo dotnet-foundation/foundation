@@ -56,6 +56,8 @@
 "contributor": "Laurent Bugnion"},
 {"name":"nuget.md",
 "contributor": "Microsoft"},
+{"name":"nuget-trends.md",
+"contributor": "NuGet Trends"},
 {"name":"open-xml-sdk.md",
 "contributor": "Microsoft"},
 {"name":"orchard.md",
@@ -138,6 +140,8 @@
 "contributor":"Andrew Arnott"},
 {"name":"marten.md",
 "contributor":"Marten"},
+{"name":"linq2db.md",
+"contributor":"linq2db"},
 {"name":"FluentValidation.md",
 "contributor": "Jeremy Skinner"}
 ],
@@ -249,6 +253,8 @@
   "web": "https://martendb.io/"},
  {"name": "Steve Syfuhs",
    "web": "https://syfuhs.net/"},
+ {"name": "linq2db",
+   "web": "https://github.com/linq2db/linq2db/"},
  {"name": "Jeremy Skinner",
    "web": "https://jeremyskinner.co.uk"}
 ]}
