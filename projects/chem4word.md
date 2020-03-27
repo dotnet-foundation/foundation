@@ -1,11 +1,12 @@
 # Chemistry Add-in for Word
 
-[Chem4Word](https://www.chem4word.co.uk/) enables you to create chemical structures directly in 
-Microsoft Word.  Not only can you draw your own structures, but you can import structures from 
-PubChem and Opsin as well as from your own files.  With the latest version, inside the editor 
-form, you can export or import your structures as CML or MDL Molfile format. 
-This will allow you to copy your edited structures to other documents or share them with 
-other users or applications.
+[Chem4Word](https://www.chem4word.co.uk/) 
+* Create chemical structures directly in Microsoft Word!
+* Draw your own structures
+* Import structures from PubChem and Opsin as well as from your own files.  
+* Export or import your structures as CML or MDL Molfile format. 
+* Copy your edited structures to other documents or share them with other users or applications.
+![c4w](https://user-images.githubusercontent.com/10074162/77251900-f27dd780-6c48-11ea-8191-4bb73430cff9.jpg)
 
 ## Project Details
 
