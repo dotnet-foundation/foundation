@@ -54,6 +54,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
 
+**Coverlet coverage**
+
+- [Coverlet](https://github.com/tonerdo/coverlet)
+
 **Dominick Baier & Brock Allen**
 
 - [IdentityServer](https://github.com/identityserver)
