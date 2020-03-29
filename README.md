@@ -70,6 +70,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [DotVVM Docs](https://github.com/riganti/dotvvm-docs)
 - [DotVVM Contrib](https://github.com/riganti/dotvvm-contrib)
 
+**Elsa Workflows**
+- [Elsa Workflows](https://github.com/elsa-workflows/elsa-core)
+- [Elsa Workflows Designer](https://github.com/elsa-workflows/elsa-designer)
+- [Elsa Workflows Orchard Core Module](https://github.com/elsa-workflows/elsa-orchard-core)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)

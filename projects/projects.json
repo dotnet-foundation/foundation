@@ -143,7 +143,9 @@
 {"name":"linq2db.md",
 "contributor":"linq2db"},
 {"name":"FluentValidation.md",
-"contributor": "Jeremy Skinner"}
+"contributor": "Jeremy Skinner"},
+ {"name":"elsa-workflows.md",
+  "contributor": "Sipke Schoorstra"}
 ],
 "contributors":
 [
