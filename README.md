@@ -151,6 +151,12 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Peachpie](https://github.com/peachpiecompiler/peachpie)
 
+**Piranha CMS**
+
+- [Piranha CMS](https://github.com/PiranhaCMS/piranha.core)
+- [Piranha CMS Docs](https://github.com/PiranhaCMS/piranha.core.docs)
+- [Piranha CMS Templates](https://github.com/PiranhaCMS/piranha.core.templates)
+
 **Pivotal**
 
 - [Steeltoe](https://steeltoe.io)

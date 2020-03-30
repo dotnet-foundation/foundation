@@ -149,7 +149,9 @@
 {"name":"elsa-workflows.md",
 "contributor": "Sipke Schoorstra"},
 {"name":"corewf.md",
-"contributor":"UiPath"}
+"contributor":"UiPath"},
+{"name":"piranha-cms.md",
+"contributor":"Piranha CMS"}
 ],
 "contributors":
 [
@@ -268,5 +270,8 @@
    "web": "https://jeremyskinner.co.uk"},
  {"name": "UiPath",
   "logo": "https://www.uipath.com/hubfs/Valentin/Brand-Kit/logos/UiPath-full-logo.svg?v=2.0",
-  "web" : "http://www.uipath.com"}
+  "web" : "http://www.uipath.com"},
+ {"name": "Piranha CMS",
+  "logo": "http://piranhacms.org/assets/logo-big.png",
+  "web": "http://piranhacms.org/"}
 ]}
