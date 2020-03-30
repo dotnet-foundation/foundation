@@ -87,7 +87,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Marten](https://github.com/JasperFx/marten)
 
-** Jeremy Skinner**
+**Jeremy Skinner**
 
 - [FluentValidation](https://github.com/FluentValidation/FluentValidation)
 
@@ -177,6 +177,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Telerik**
 
 - [Telerik UI for UWP](https://github.com/telerik/UI-For-UWP/)
+
+**UiPath**
+
+- [CoreWF](https://github.com/uipath-open/corewf)
 
 **Umbraco**
 

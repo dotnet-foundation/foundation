@@ -146,8 +146,10 @@
 "contributor":"linq2db"},
 {"name":"FluentValidation.md",
 "contributor": "Jeremy Skinner"},
- {"name":"elsa-workflows.md",
-  "contributor": "Sipke Schoorstra"}
+{"name":"elsa-workflows.md",
+"contributor": "Sipke Schoorstra"},
+{"name":"corewf.md",
+"contributor":"UiPath"}
 ],
 "contributors":
 [
@@ -263,5 +265,8 @@
  {"name": "linq2db",
    "web": "https://github.com/linq2db/linq2db/"},
  {"name": "Jeremy Skinner",
-   "web": "https://jeremyskinner.co.uk"}
+   "web": "https://jeremyskinner.co.uk"},
+ {"name": "UiPath",
+  "logo": "https://www.uipath.com/hubfs/Valentin/Brand-Kit/logos/UiPath-full-logo.svg?v=2.0",
+  "web" : "http://www.uipath.com"}
 ]}
