@@ -7,13 +7,13 @@ and future proof technology stack that ensures that both developers and content 
 will get the best experience possible.
 
 ## Project Details
-* [Project Info Site](http://piranhacms.org/)
+* [Project Info Site](https://piranhacms.org/)
 * [Project Code Site](https://github.com/PiranhaCMS/piranha.core)
 * Project License Type: [MIT](https://github.com/PiranhaCMS/piranha.core/blob/master/LICENSE)
-* Project Main Contact: [Piranha Team](http://piranhacms.org/about-us)
+* Project Main Contact: [Piranha Team](https://piranhacms.org/about-us)
 
 ## QuickLinks
-* [Documentation](http://piranhacms.org/docs)
+* [Documentation](https://piranhacms.org/docs)
 * [Contribute](https://github.com/PiranhaCMS/piranha.core/blob/master/CONTRIBUTING.md)
 * [Gitter](https://gitter.im/PiranhaCMS/Piranha)
 
