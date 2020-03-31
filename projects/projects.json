@@ -151,7 +151,9 @@
 {"name":"corewf.md",
 "contributor":"UiPath"},
 {"name":"piranha-cms.md",
-"contributor":"Piranha CMS"}
+"contributor":"Piranha CMS"},
+{"name":"oqtane.md",
+"contributor":"Oqtane"}
 ],
 "contributors":
 [
@@ -273,5 +275,8 @@
   "web" : "http://www.uipath.com"},
  {"name": "Piranha CMS",
   "logo": "https://piranhacms.org/assets/logo-big.png",
-  "web": "https://piranhacms.org/"}
+  "web": "https://piranhacms.org/"},
+ {"name": "Oqtane",
+  "logo": "https://github.com/oqtane/framework/raw/master/oqtane.png?raw=true",
+  "web": "https://www.oqtane.org/"}
 ]}
