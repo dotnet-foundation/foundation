@@ -10,6 +10,21 @@ Please visit [dotnetfoundation.org](https://dotnetfoundation.org) for more infor
 
 There are many projects under the stewardship of the .NET Foundation. The [full list of projects](https://dotnetfoundation.org/projects?type=project) is provided on the .NET Foundation site. The projects on GitHub are listed below, categorized by contributing company or individual.
 
+
+**Akka.NET**
+
+- [Akka.NET](https://github.com/akkadotnet/akka.net)
+- [(and more)](https://github.com/akkadotnet)
+
+**Andrew Arnott**
+
+- [Nerdbank.GitVersioning](https://github.com/dotnet/Nerdbank.GitVersioning)
+
+**AngleSharp**
+
+- [AngleSharp](https://github.com/AngleSharp/AngleSharp)
+- [(and more)](https://github.com/AngleSharp)
+
 **App vNext**
 
 - [Polly](https://github.com/App-vNext/Polly)
@@ -31,10 +46,6 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Cake](https://github.com/cake-build/cake)
 - [(and more)](https://github.com/cake-build)
 
-**Cameron Taggart**
-
-- [SourceLink](https://github.com/ctaggart/SourceLink)
-
 **Chemistry Add-In for Word**
 
 - [Chem4Word](https://github.com/Chem4Word)
@@ -42,6 +53,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Couchbase**
 
 - [Couchbase Lite for .NET](https://github.com/couchbaselabs/couchbase-lite-net)
+
+**Coverlet coverage**
+
+- [Coverlet](https://github.com/tonerdo/coverlet)
 
 **Dominick Baier & Brock Allen**
 
@@ -54,13 +69,39 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
   - [Edit Bar](https://github.com/dnnsoftware/Dnn.EditBar)
   - [React Common Library](https://github.com/dnnsoftware/Dnn.React.Common)
 
+**DotVVM**
+- [DotVVM](https://github.com/riganti/dotvvm)
+- [DotVVM Docs](https://github.com/riganti/dotvvm-docs)
+- [DotVVM Contrib](https://github.com/riganti/dotvvm-contrib)
+
+**Elsa Workflows**
+- [Elsa Workflows](https://github.com/elsa-workflows/elsa-core)
+- [Elsa Workflows Designer](https://github.com/elsa-workflows/elsa-designer)
+- [Elsa Workflows Orchard Core Module](https://github.com/elsa-workflows/elsa-orchard-core)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)
 
+**JasperFx**
+
+- [Marten](https://github.com/JasperFx/marten)
+
+**Jeremy Skinner**
+
+- [FluentValidation](https://github.com/FluentValidation/FluentValidation)
+
 **Jb Evain**
 
 - [Mono.Cecil](https://github.com/jbevain/cecil)
+
+**Kerberos.NET**
+
+- [Kerberos.NET](https://github.com/dotnet/Kerberos.NET)
+
+**linq2db**
+
+- [linq2db](https://github.com/linq2db/linq2db)
 
 **Microsoft**
 
@@ -77,7 +118,8 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [MS Build](https://github.com/microsoft/msbuild)
 - [Open Live Writer](http://openlivewriter.org)
 - [Open Office SDK](https://github.com/officedev/open-xml-sdk)
-- [Reactive Extensions for .NET](https://github.com/reactive-extensions/rx.net)
+- [Reactive Extensions for .NET](https://github.com/dotnet/reactive/)
+- [Source Link](https://github.com/dotnet/sourcelink)
 - [UWP Community Toolkit](https://github.com/Microsoft/UWPCommunityToolkit)
 - [WCF](https://github.com/dotnet/wcf)
 - [Windows Template Studio](https://github.com/Microsoft/WindowsTemplateStudio/)
@@ -96,6 +138,11 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [Nancy](https://github.com/NancyFx)
 
+**NuGet Trends**
+
+- [Source Code](https://github.com/dotnet/nuget-trends)
+- [Browse NuGet Trends](https://nugettrends.com)
+
 **Orchard**
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
@@ -103,6 +150,12 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Peachpie Compiler Platform**
 
 - [Peachpie](https://github.com/peachpiecompiler/peachpie)
+
+**Piranha CMS**
+
+- [Piranha CMS](https://github.com/PiranhaCMS/piranha.core)
+- [Piranha CMS Docs](https://github.com/PiranhaCMS/piranha.core.docs)
+- [Piranha CMS Templates](https://github.com/PiranhaCMS/piranha.core.templates)
 
 **Pivotal**
 
@@ -130,6 +183,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Telerik**
 
 - [Telerik UI for UWP](https://github.com/telerik/UI-For-UWP/)
+
+**UiPath**
+
+- [CoreWF](https://github.com/uipath-open/corewf)
 
 **Umbraco**
 

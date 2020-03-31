@@ -39,7 +39,7 @@ ReactiveUI is inspired by the paradigm of Functional Reactive Programming, which
 
 * [Website](https://www.reactiveui.net)
 * [Source](https://github.com/reactiveui/reactiveui)
-* License: [MS-PL](https://github.com/reactiveui/reactiveui/blob/master/LICENSE)
+* License: [MIT](https://github.com/reactiveui/reactiveui/blob/master/LICENSE)
 * [NuGet](https://www.nuget.org/packages/reactiveui)
 * [Project Leads](https://github.com/reactiveui/reactiveui/#core-team)
 

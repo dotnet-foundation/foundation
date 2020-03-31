@@ -20,6 +20,6 @@ Jim Hugunin created the project and actively contributed to it up until Version 
 
 ## Quicklinks
 
-* [Documentation](https://github.com/IronLanguages/docs)
+* [Documentation](https://ironpython.net/documentation/)
 * Discussions are held on the [ironpython-users](https://ironpython.groups.io) mailing list and on [Gitter](https://gitter.im/IronLanguages/ironpython).
 
