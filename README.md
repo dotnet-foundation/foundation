@@ -33,6 +33,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [AutoMapper](https://github.com/automapper/automapper)
 
+**Avalonia**
+
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia)
+
 **BenchmarkDotNet**
 
 - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet)
