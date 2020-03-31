@@ -143,6 +143,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Source Code](https://github.com/dotnet/nuget-trends)
 - [Browse NuGet Trends](https://nugettrends.com)
 
+**Oqtane**
+
+- [Oqtane](https://github.com/oqtane/oqtane.framework)
+
 **Orchard**
 
 - [Orchard CMS](https://github.com/OrchardCMS/Orchard)
