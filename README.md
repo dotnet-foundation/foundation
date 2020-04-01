@@ -83,6 +83,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 - [Elsa Workflows Designer](https://github.com/elsa-workflows/elsa-designer)
 - [Elsa Workflows Orchard Core Module](https://github.com/elsa-workflows/elsa-orchard-core)
 
+**FlubuCore**
+
+- [FlubuCore](https://github.com/dotnetcore/FlubuCore)
+
 **Force.com**
 
 - [Force.com Toolkit for .NET](https://github.com/developerforce/Force.com-Toolkit-for-NET)

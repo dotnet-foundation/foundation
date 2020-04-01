@@ -155,7 +155,9 @@
 {"name":"oqtane.md",
 "contributor":"Oqtane"},
 {"name":"avalonia.md",
-"contributor":"Avalonia"}
+"contributor":"Avalonia"},
+{"name":"flubucore.md",
+"contributor":"FlubuCore"}
 ],
 "contributors":
 [
@@ -283,5 +285,8 @@
   "web": "https://www.oqtane.org/"},
  {"name": "Avalonia",
   "logo": "https://raw.githubusercontent.com/AvaloniaUI/static-images/master/logo/avalonia_pure.svg",
-  "web": "https://avaloniaui.net/"}
+  "web": "https://avaloniaui.net/"},
+   {"name": "FlubuCore",
+  "logo": "https://raw.githubusercontent.com/dotnetcore/FlubuCore/master/assets/Svg/Flubulogo.svg",
+  "web": "https://flubucore.dotnetcore.xyz/"}
 ]}
