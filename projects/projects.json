@@ -157,7 +157,9 @@
 {"name":"avalonia.md",
 "contributor":"Avalonia"},
 {"name":"flubucore.md",
-"contributor":"FlubuCore"}
+"contributor":"FlubuCore"},
+{"name":"docker-dotnet.md",
+  "contributor":"Docker.DotNet"}
 ],
 "contributors":
 [
@@ -288,5 +290,7 @@
   "web": "https://avaloniaui.net/"},
    {"name": "FlubuCore",
   "logo": "https://raw.githubusercontent.com/dotnetcore/FlubuCore/master/assets/Svg/Flubulogo.svg",
-  "web": "https://flubucore.dotnetcore.xyz/"}
+  "web": "https://flubucore.dotnetcore.xyz/"},
+  {"name": "Gutemberg Ribeiro",
+  "web": "https://www.linkedin.com/in/gutembergribeiro/"}
 ]}
