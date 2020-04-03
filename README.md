@@ -219,6 +219,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 - [xUnit.net](https://github.com/xunit/xunit)
 
+**Gutemberg Ribeiro**
+
+- [Docket.DotNet](https://github.com/dotnet/Docker.DotNet)
+
 ## .NET Foundation Community Resources
 
 - [.NET Foundation Website](https://dotnetfoundation.org)
