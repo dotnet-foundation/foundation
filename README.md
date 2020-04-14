@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/dotnet/home](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dotnet/home?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for .NET, Microsoft’s comprehensive development framework.
+We foster open development, collaboration and community engagement on the .NET platform. The .NET Foundation is the steward of a growing collection of open source technologies for .NET, Microsoft's comprehensive development framework.
 
 Please visit [dotnetfoundation.org](https://dotnetfoundation.org) for more information.
 
@@ -203,6 +203,10 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 **Umbraco**
 
 - [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)
+
+**Unity Container**
+- [Unity Container](https://github.com/unitycontainer/unity)
+- [(and more)](https://github.com/unitycontainer)
 
 **WiX Toolset**
 
