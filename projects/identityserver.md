@@ -15,7 +15,7 @@ IdentityServer is [certified](https://openid.net/certification/) by the OpenID F
 
 * [Project Info Site](https://identityserver.io)
 * [Project Code Site](https://github.com/identityserver)
-* Project License Type: [Apache License 2.0 (Apache)](https://github.com/IdentityServer/IdentityServer4/blob/release/LICENSE)
+* Project License Type: [Apache License 2.0 (Apache)](https://github.com/IdentityServer/IdentityServer4/blob/master/LICENSE)
 * Project Main Contact: [Dominick Baier](https://github.com/leastprivilege)
 
 ### Quicklinks
