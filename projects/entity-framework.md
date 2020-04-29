@@ -15,7 +15,7 @@ Entity Framework is the recommend data access technology for new applications in
 
 ## Quicklinks
 
-* [Contribute](https://github.com/aspnet/entityframeworkcore/blob/master/CONTRIBUTING.md)
+* [Contribute](https://github.com/aspnet/entityframeworkcore/blob/master/.github/CONTRIBUTING.md)
 * [Facebook](https://www.facebook.com/efmagicunicorns) 
 * [Twitter](https://twitter.com/efmagicunicorns) 
 * [Blog](https://blogs.msdn.microsoft.com/dotnet/tag/entity-framework)
