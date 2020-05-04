@@ -4,13 +4,13 @@ Coverlet is a cross platform code coverage framework for .NET, with support for 
 
 ## Project Details
 
-* [Website](https://github.com/tonerdo/coverlet)
-* [Source](https://github.com/tonerdo/coverlet)
-* License: [MIT](https://github.com/tonerdo/coverlet/blob/master/LICENSE)  
+* [Website](https://github.com/coverlet-coverage)
+* [Source](https://github.com/coverlet-coverage)
+* License: [MIT](https://github.com/coverlet-coverage/coverlet/blob/master/LICENSE)  
 * Project owner: [Toni Solarin-Sodara](https://github.com/tonerdo)
 * Project co-maintainers: [Peter Liljenberg](https://github.com/petli), [Marco Rossignoli](https://github.com/MarcoRossignoli)
 
 ## Quicklinks
 
-* [Documentation](https://github.com/tonerdo/coverlet#main-contents)
-* [Contribute](https://github.com/tonerdo/coverlet/blob/master/CONTRIBUTING.md)
+* [Documentation](https://github.com/coverlet-coverage/coverlet#main-contents)
+* [Contribute](https://github.com/coverlet-coverage/coverlet/blob/master/CONTRIBUTING.md)

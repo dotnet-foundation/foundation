@@ -60,7 +60,7 @@ There are many projects under the stewardship of the .NET Foundation. The [full 
 
 **Coverlet coverage**
 
-- [Coverlet](https://github.com/tonerdo/coverlet)
+- [Coverlet](https://github.com/coverlet-coverage)
 
 **Dominick Baier & Brock Allen**
 
